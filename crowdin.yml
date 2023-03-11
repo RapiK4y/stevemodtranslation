@@ -1,0 +1,3 @@
+files:
+  - source: /source/en/en_us.json
+    translation: /done/%two_letters_code%/%original_file_name%
