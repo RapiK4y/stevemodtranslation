@@ -1,4 +1,5 @@
 {
+  "itemGroup.quiver": "Nock Enough Arrows",
   "container.fletch": "화살 제작",
   "key.nock_enough_arrows.switch_arrow_key": "화살 변경",
   "gui.jei.fletching": "화살 제작",
@@ -62,6 +63,7 @@
   "enchantment.nock_enough_arrows.cycle": "순환",
   "enchantment.nock_enough_arrows.cycle.desc": "화살을 발사하면, 화살통이 다음화살을 준비해줍니다",
   "entity.nock_enough_arrows.sputter": "스푸터",
+  "advancements.fletching.root.title": "Nock Enough Arrows",
   "advancements.fletching.root.description": "차분한 손짓",
   "advancements.fletching.get_quiver.title": "궁(弓)극의 두려움에 떨어라!",
   "advancements.fletching.get_quiver.description": "화살을 저장할때 사용할 화살통을 제작해보세요.",

@@ -36,5 +36,6 @@
   "item.abnormals_delight.silver_knife": "은 나이프",
   "item.abnormals_delight.strawberry_cake_slice": "딸기 케이크 조각",
   "item.abnormals_delight.vanilla_cake_slice": "바닐라 케이크 조각",
-  "item.abnormals_delight.yucca_gateau_slice": "유카 가토 조각"
+  "item.abnormals_delight.yucca_gateau_slice": "유카 가토 조각",
+  "itemGroup.abnormals_delight": "Farmer's Delight"
 }
