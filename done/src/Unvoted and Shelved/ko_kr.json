@@ -1,0 +1,14 @@
+{
+  "block.unvotedandshelved.copper_pillar": "구리 기둥",
+  "block.unvotedandshelved.exposed_copper_pillar": "약간 녹슨 구리 기둥",
+  "block.unvotedandshelved.weathered_copper_pillar": "녹슨 구리 기둥",
+  "block.unvotedandshelved.oxidized_copper_pillar": "산화된 구리 기둥",
+  "item.unvotedandshelved.oxidized_copper_golem": "산화된 구리 골렘",
+  "block.unvotedandshelved.waxed_copper_pillar": "밀랍칠한 구리 기둥",
+  "block.unvotedandshelved.waxed_exposed_copper_pillar": "밀랍칠한 약간 녹슨 구리 기둥",
+  "block.unvotedandshelved.waxed_weathered_copper_pillar": "밀랍칠한 녹슨 구리 기둥",
+  "block.unvotedandshelved.waxed_oxidized_copper_pillar": "밀랍칠한 산화된 구리 기둥",
+  "entity.unvotedandshelved.copper_golem": "구리 골렘",
+  "entity.unvotedandshelved.oxidized_copper_golem": "산화된 구리 골렘",
+  "entity.unvotedandshelved.glare": "글레어"
+}
