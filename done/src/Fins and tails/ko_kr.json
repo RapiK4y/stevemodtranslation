@@ -81,6 +81,7 @@
   "entity.finsandtails.spindly_gem_crab": "가는보석가재",
   "entity.finsandtails.flatback_leaf_snail": "납작등잎달팽이",
   "entity.finsandtails.red_bull_crab": "붉은황소게",
+  "entity.finsandtails.white_bull_crab": "하얀황소게",
   "block.finsandtails.crab_cruncher": "가재 분쇄기",
   "finsandtails.mudhorse.ambient": "진흙말이 욺",
   "finsandtails.mudhorse.hurt": "진흙말이 상처를 입음",
@@ -94,5 +95,8 @@
   "finsandtails.crab.death": "가재가 죽음",
   "finsandtails.crab.crunch": "가재가 분쇄됨",
   "entity.finsandtails.vibra_wee.5": "황제",
-  "advancements.finsandtails.gopjet_joyride.desc": "곱제트팩을 장착하세요"
+  "advancements.finsandtails.gopjet_joyride.desc": "곱제트팩을 장착하세요",
+  "advancements.finsandtails.ko.title": "K.O.",
+  "advancements.finsandtails.smallest_fish.title": "세상에서 가장 작은 물고기",
+  "advancements.finsandtails.smallest_fish.desc": "위 위가 담긴 양동이"
 }
