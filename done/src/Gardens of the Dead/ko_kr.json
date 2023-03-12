@@ -1,4 +1,18 @@
 {
   "itemGroup.gardens_of_the_dead.main": "죽음의 정원",
-  "block.gardens_of_the_dead.soul_spore": "영혼 포자"
+  "biome.gardens_of_the_dead.whistling_woods": "휘파람 부는 숲",
+  "block.gardens_of_the_dead.soul_spore": "영혼 포자",
+  "block.gardens_of_the_dead.glowing_soul_spore": "빛나는 영혼 포자",
+  "block.gardens_of_the_dead.whistlecane": "휘파람대",
+  "block.gardens_of_the_dead.whistlecane_block": "휘파람대 블록",
+  "block.gardens_of_the_dead.whistlecane_slab": "휘파람대 반블록",
+  "block.gardens_of_the_dead.whistlecane_stairs": "휘파람대 계단",
+  "block.gardens_of_the_dead.whistlecane_fence": "휘파람대 울타리",
+  "block.gardens_of_the_dead.whistlecane_fence_gate": "휘파람대 울타리 문",
+  "block.gardens_of_the_dead.whistlecane_button": "휘파람대 버튼",
+  "block.gardens_of_the_dead.whistlecane_pressure_plate": "휘파람대 압력판",
+  "block.gardens_of_the_dead.whistlecane_door": "휘파람대 문",
+  "block.gardens_of_the_dead.whistlecane_trapdoor": "휘파람대 다락문",
+  "block.gardens_of_the_dead.whistlecane_sign": "휘파람대 표지판",
+  "gardens_of_the_dead.subtitle.block.whistlecane.whistle": "휘파람대 휘파람"
 }
