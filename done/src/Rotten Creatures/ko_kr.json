@@ -1,1 +1,15 @@
-{}
+{
+  "block.rottencreatures.tnt_barrel": "TNT 통",
+  "entity.rottencreatures.dead_beard": "죽은 수염",
+  "entity.rottencreatures.flying_scarab": "비행 풍뎅이",
+  "entity.rottencreatures.frostbitten": "동상",
+  "entity.rottencreatures.glacial_hunter": "빙하 사냥꾼",
+  "entity.rottencreatures.hunter_wolf": "사냥꾼의 늑대",
+  "entity.rottencreatures.immortal": "불멸자",
+  "entity.rottencreatures.mummy": "미라",
+  "entity.rottencreatures.scarab": "풍뎅이",
+  "entity.rottencreatures.treasure_chest": "보물 상자",
+  "entity.rottencreatures.undead_miner": "언데드 광부",
+  "item.minecraft.potion.effect.corrupted": "오염된 물약",
+  "item.rottencreatures.corrupted_wart": "오염된 사마귀"
+}
