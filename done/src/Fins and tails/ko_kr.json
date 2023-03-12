@@ -1,4 +1,5 @@
 {
+  "itemGroup.finsandtails": "지느러미와 꼬리들",
   "item.finsandtails.blu_wee": "블루위",
   "item.finsandtails.blu_wee_bucket": "블루위가 담긴 양동이",
   "item.finsandtails.pea_wee": "피위",
@@ -36,6 +37,17 @@
   "item.finsandtails.white_claw_gauntlet": "하얀 집게발 건틀릿",
   "item.finsandtails.gopjet_jet": "곱젯 제트",
   "item.finsandtails.gopjet_jetpack": "곱젯 제트팩",
+  "item.finsandtails.reef_cocktail": "암초 칵테일",
+  "item.finsandtails.seafood_soup": "해산물 수프",
+  "item.finsandtails.crab_sandwich": "게살 샌드위치",
+  "item.finsandtails.luminous_calamari": "빛나는 오징어",
+  "item.finsandtails.cooked_luminous_calamari": "익힌 빛나는 오징어",
+  "item.finsandtails.banner_pattern_shell": "현수막 무늬",
+  "item.finsandtails.banner_pattern_shell.desc": "조개껍질",
+  "item.finsandtails.music_disc_crashing_tides": "음반",
+  "item.finsandtails.music_disc_whistling_wyverns": "음반",
+  "item.finsandtails.music_disc_crashing_tides.desc": "Mr. Esuoh - Crashing Tides",
+  "item.finsandtails.music_disc_whistling_wyverns.desc": "Mr. Esuoh - Whistling Wyverns",
   "item.finsandtails.blu_wee_spawn_egg": "블루위 생성 알",
   "item.finsandtails.pea_wee_spawn_egg": "피위 생성 알",
   "item.finsandtails.banded_redback_shrimp_spawn_egg": "줄무늬붉은등새우 생성 알",
@@ -80,5 +92,7 @@
   "finsandtails.penglil.hurt": "펭길이 상처를 입음",
   "finsandtails.penglil.death": "펭길이 죽음",
   "finsandtails.crab.death": "가재가 죽음",
-  "finsandtails.crab.crunch": "가재가 분쇄됨"
+  "finsandtails.crab.crunch": "가재가 분쇄됨",
+  "entity.finsandtails.vibra_wee.5": "황제",
+  "advancements.finsandtails.gopjet_joyride.desc": "곱제트팩을 장착하세요"
 }
