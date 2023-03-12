@@ -1,4 +1,5 @@
 {
+  "itemGroup.allthetweaks": "AllTheTweaks",
   "block.allthetweaks.trophy_atm": "All The Mods 트로피",
   "block.allthetweaks.ender_pearl_block": "엔더 진주 블록",
   "block.allthetweaks.atm_star_block": "ATM의 별 블록",
@@ -14,5 +15,8 @@
   "item.allthetweaks.improbable_probability_device": "불가능한 확률의 장치",
   "item.allthetweaks.dimensional_seed": "차원의 씨앗",
   "item.allthetweaks.patrick_star": "뚱이",
-  "travelerstitles.allthemodium.the_other": "아더"
+  "allthetweaks.valhelsia_core.cosmeticsWardrobe": "Valhelsia Team is selling Capes, violating Commercial Usage Guidelines ",
+  "allthetweaks.valhelsia_core.dontbuyCosmetics": "Until this ends, ALL Valhelsia cosmetic features will be disabled in ATM ModPacks.",
+  "travelerstitles.allthemodium.the_other": "아더",
+  "travelerstitles.allthemodium.the_other.color": "153333"
 }
