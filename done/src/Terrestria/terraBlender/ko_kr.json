@@ -1,1 +1,4 @@
-{}
+{
+  "commands.terrablender.biomeparams.success": "좌표 %s %s %s 의 매개변수: %s",
+  "commands.terrablender.biomeparams.failed": "매개변수를 확인할 수 없습니다"
+}
