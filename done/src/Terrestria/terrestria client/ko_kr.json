@@ -247,6 +247,7 @@
   "block.terrestria.saguaro_cactus": "변경주선인장",
   "block.terrestria.saguaro_cactus_sapling": "변경주선인장 묘목",
   "block.terrestria.yucca_palm_sapling": "조슈아나무 묘목",
+  "item.terrestria.log_turner": "로그 터너",
   "item.terrestria.log_turner.tooltip": "원목에 사용하면 클릭한\n 면을 축으로 설정합니다\n 쿼터 원목의 축 면에\n 사용하면 하면, 껍질면을\n 시계 방향으로 회전합니다\n 웅크리고 사용하면,\n 축 면과 껍질 면을 순회합니다",
   "biome.terrestria.caldera": "칼데라",
   "biome.terrestria.canyon": "협곡",
