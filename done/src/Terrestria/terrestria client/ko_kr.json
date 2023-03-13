@@ -254,6 +254,7 @@
   "biome.terrestria.dense_woodlands": "빽빽한 산림 지대",
   "biome.terrestria.dunes": "사구",
   "biome.terrestria.hemlock_rainforest": "솔송나무 우림",
+  "biome.terrestria.hemlock_treeline": "솔송나무 수목한계선",
   "biome.terrestria.japanese_maple_forest": "일본 단풍나무 숲",
   "biome.terrestria.lush_desert": "무성한 사막",
   "biome.terrestria.lush_redwood_forest": "무성한 서퀘이아나무 숲",
@@ -263,6 +264,7 @@
   "biome.terrestria.redwood_forest": "서퀘이아나무 숲",
   "biome.terrestria.sakura_forest": "벚나무 숲",
   "biome.terrestria.snowy_hemlock_forest": "눈 덮인 솔송나무 숲",
+  "biome.terrestria.snowy_hemlock_treeline": "눈덮인 솔송나무 수목한계선",
   "biome.terrestria.volcanic_island": "화산섬",
   "biome.terrestria.windswept_redwood_forest": "바람이 세찬 서퀘이아나무 숲"
 }
