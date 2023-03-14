@@ -203,7 +203,7 @@
   "item.tconstruct.modifier_crystal": "수식어 수정",
   "item.tconstruct.modifier_crystal.format": "%s 수정",
   "item.tconstruct.modifier_crystal.missing": "수식자 유형을 정의하는 NBT가 없거나 잘못되었습니다",
-  "item.tconstruct.modifier_crystal.tooltip": "도구에 적용하면 슬롯을 사용하여 수식어의 레벨 1을 얻습니다.",
+  "item.tconstruct.modifier_crystal.tooltip": "도구에 적용하면 해당 수식어의 1레벨을 얻고 그에 맞는 슬롯을 사용합니다.",
   "item.tconstruct.creative_slot": "크리에이티브 슬롯",
   "item.tconstruct.creative_slot.upgrades": "크리에이티브 강화",
   "item.tconstruct.creative_slot.abilities": "크리에이티브 능력",
