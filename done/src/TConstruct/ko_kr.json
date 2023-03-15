@@ -578,7 +578,7 @@
   "block.tconstruct.blood_cake": "피 케이크",
   "block.tconstruct.magma_cake": "마그마 케이크",
   "item.tconstruct.earth_slime_sling": "슬라임 새총",
-  "item.tconstruct.earth_slime_sling.tooltip": "충전하고, 바닥이나 벽에 쏘면, 반대 방향으로 날아갑니다!\n목숨을 소중히 여긴다면, 슬라임부츠와 같이 사용하세요!",
+  "item.tconstruct.earth_slime_sling.tooltip": "충전하고, 아래를 보고, 날아가세요!\n목숨을 소중히 여긴다면, 반동 수식어를 사용하세요!",
   "item.tconstruct.sky_slime_sling": "하늘슬라임 새총",
   "item.tconstruct.sky_slime_sling.tooltip": "충전하고, 쏘면, 바라보는 방향으로 날아갑니다!\n목숨을 소중히 여긴다면, 슬라임부츠와 같이 사용하세요!",
   "item.tconstruct.ender_slime_sling": "엔더슬라임 새총",
