@@ -1,1 +1,14 @@
-{}
+{
+  "item.sorcerium.villager_staff": "주민 지팡이",
+  "item.simple_sorcery.boguslav_the_sorcerer_spawn_egg": "주술사 보그슬라프 생성 알",
+  "entity.simple_sorcery.thorn_wall_entity": "가시 벽",
+  "item.sorcerium.earth_staff": "대지 지팡이",
+  "item.sorcerium.electric_projectile": "전기 투사체",
+  "item.sorcerium.frost_wand": "서리 지팡이",
+  "advancements.lvl_50_achievement.title": "대마법사",
+  "item.sorcerium.soul_flame": "영혼 불길",
+  "item.simple_sorcery.vulcano_wand": "화산 지팡이",
+  "advancements.lvl_10_achievement.title": "견습생",
+  "advancements.lvl_20_achievement.title": "마법사",
+  "entity.sorcerium.small_chains": "얼음 블록"
+}

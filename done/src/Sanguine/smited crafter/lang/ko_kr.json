@@ -1,1 +1,4 @@
-{}
+{
+    "block.smithed.crafter": "무거운 작업대",
+    "block.smithed.crafter.gui": "\\uc000 \\uc002\\uc001%s"
+}
