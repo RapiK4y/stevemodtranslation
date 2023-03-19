@@ -1,4 +1,8 @@
 {
   "entity.sanguine.reaper": "사신",
-  "entity.sanguine.gurgle": "거글"
+  "entity.sanguine.gurgle": "거글",
+  "gamerule.sanguine.true": "참",
+  "gamerule.sanguine.false": "거짓",
+  "gamerule.sanguine.difficulty": "난이도: %s %s",
+  "gamerule.sanguine.difficulty.normal": "보통"
 }
