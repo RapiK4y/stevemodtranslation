@@ -80,5 +80,8 @@
   "block.enlightened_end.voikrust_wall": "보이크러스트 담장",
   "item.enlightened_end.adamantite_nugget": "아다만타이트 조각",
   "block.enlightened_end.ebony_stairs": "흑단 계단",
+  "block.enlightened_end.nullstone": "널스톤",
+  "block.sustainableend.chorus_sprouts": "후렴초 새싹",
+  "subtitles.nullstone_break": "블록이 부서짐",
   "block.nourished_end.voikrust": "보이크러스트"
 }
