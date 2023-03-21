@@ -1101,7 +1101,7 @@
   "material.tconstruct.copper.encyclopedia": "낮은 장소에서 채굴 속도가 증가합니다. Y 64아래에서 64 블록당 채굴 속도 +6을 얻습니다",
   "material.tconstruct.copper.ranged": "낮은 장소에서 속도가 증가합니다. Y 64아래에서 64 블록당 속도 +0.05를 얻습니다",
   "material.tconstruct.copper.skull_flavor": "바람아 멈춰라",
-  "material.tconstruct.copper.skull_encyclopedia": "근접 공격이 대상의 공기를 3초 만큼 훔쳐옵니다.",
+  "material.tconstruct.copper.skull_encyclopedia": "근접 공격이 대상의 공기를 3초만큼 훔칩니다.",
   "material.tconstruct.slimewood": "슬라임나무",
   "material.tconstruct.slimewood.greenheart": "심록심장",
   "material.tconstruct.slimewood.skyroot": "하늘뿌리나무",
