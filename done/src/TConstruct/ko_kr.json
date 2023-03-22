@@ -1118,7 +1118,7 @@
   "material.tconstruct.rose_gold.flavor": "주의: 진짜 장미로 만든 것이 아닙니다.",
   "material.tconstruct.rose_gold.encyclopedia": "부품 당 추가 강화 슬롯 1개를 얻습니다",
   "material.tconstruct.rose_gold.skull_flavor": "좋은 의도로 사용되는 팔 보호대",
-  "material.tconstruct.rose_gold.skull_encyclopedia": "1 하트만큼 체력을 증가시키며, 금 갑옷 한 부분 당 추가 하트를 제공합니다.",
+  "material.tconstruct.rose_gold.skull_encyclopedia": "최대 생명력을 하트 1칸만큼 더 늘려주며, 착용한 금 갑옷 당 하트 1칸이 더 증가합니다",
   "material.tconstruct.chain": "사슬",
   "material.tconstruct.chain.flavor": "사슬낫의 제니가 상대해 드리죠!",
   "material.tconstruct.chain.encyclopedia": "도구가 받는 손상이 25% 감소합니다",
