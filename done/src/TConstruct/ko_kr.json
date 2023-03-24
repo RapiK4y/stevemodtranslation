@@ -1220,7 +1220,7 @@
   "material.tconstruct.lead": "납",
   "material.tconstruct.lead.flavor": "이걸로 샌드위치를 만들어 보세요",
   "material.tconstruct.lead.encyclopedia": "공격 피해량이 (10 × 특성 레벨)% 증가하고, 이동 속도가 (10 × 특성 레벨)% 감소합니다",
-  "material.tconstruct.lead.ranged": "화살 공격력이 (특성 레벨 × 10)% 증가하고, 이동 속도가 (특성 레벨 × 10)% 감소합니다",
+  "material.tconstruct.lead.ranged": "화살 피해량이 (10 × 특성 레벨)% 증가하고, 이동 속도가 (10 × 특성 레벨)% 감소합니다",
   "material.tconstruct.silver": "은",
   "material.tconstruct.silver.flavor": "알겠지만, 이 도구는 며칠 지나면 이렇게 반짝거리지 않을겁니다",
   "material.tconstruct.silver.encyclopedia": "언데드에게 공격 피해량이 (2.5 × 특성 레벨)만큼 증가합니다",
