@@ -1135,7 +1135,7 @@
   "material.tconstruct.amethyst_bronze": "수정동",
   "material.tconstruct.amethyst_bronze.flavor": "청동과 헷갈리지 마시오",
   "material.tconstruct.amethyst_bronze.encyclopedia": "도구가 필요 없거나 효과적이지 않은 블록들에 대한 채굴 속도가 (0.5 × 특성 레벨) 증가합니다. ",
-  "material.tconstruct.amethyst_bronze.ranged": "화살 속도가 (0.1 × 특성 레벨) 증가하는 대신, 발사 각도가 제한됩니다. (1레벨부터 32,16,8,4,2 방향)",
+  "material.tconstruct.amethyst_bronze.ranged": "화살 속도가 레벨당 +0.1씩 증가하는 대신 발사 각도가 처음 3레벨에서 32, 16, 8방향으로 점점 제한됩니다",
   "material.tconstruct.pig_iron": "돼지 선철",
   "material.tconstruct.pig_iron.flavor": "배고플 여지 없는 완벽한 재료입니다",
   "material.tconstruct.pig_iron.encyclopedia": "섭취시 (1 × 특성 레벨)의 배고픔과 (1 × 특성 레벨)의 포만감을 채웁니다",
