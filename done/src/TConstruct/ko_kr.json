@@ -1292,7 +1292,7 @@
   "modifier.tconstruct.diamond.description": "내구도와 능력치가 증가합니다!",
   "modifier.tconstruct.worldbound": "세계 귀속",
   "modifier.tconstruct.worldbound.flavor": "아주 오래된!",
-  "modifier.tconstruct.worldbound.description": "네더라이트의 값싼 버전입니다. 불 같은 외적인 피해에 면역이 되지만, 추가 효과는 없습니다",
+  "modifier.tconstruct.worldbound.description": "네더라이트의 염가판입니다. 불 같은 외부 피해에 면역이 되지만, 추가 효과는 없습니다",
   "modifier.tconstruct.soulbound": "영혼 귀속",
   "modifier.tconstruct.soulbound.flavor": "생명에 묶입니다!",
   "modifier.tconstruct.soulbound.description": "죽어도 도구가 인벤토리에 남아있게 됩니다!",
