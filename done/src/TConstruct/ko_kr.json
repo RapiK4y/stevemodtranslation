@@ -1508,7 +1508,7 @@
   "modifier.tconstruct.slurping.description": "상호작용하면 투구에 담긴 액체를 마실 수 있습니다",
   "modifier.tconstruct.aqua_affinity": "친수성",
   "modifier.tconstruct.aqua_affinity.flavor": "바다와 하나가 되세요!",
-  "modifier.tconstruct.aqua_affinity.description": "수중 채굴시 얻는 채굴 속도 감소를 없앱니다",
+  "modifier.tconstruct.aqua_affinity.description": "수중에서의 채굴 속도 감소를 없앱니다",
   "modifier.tconstruct.item_frame": "아이템 액자",
   "modifier.tconstruct.item_frame.flavor": "모든 걸 볼 수 있다",
   "modifier.tconstruct.item_frame.description": "자주 보는 아이템을 위해 투구에 인벤토리가 추가됩니다. 시계나 나침반이 알맞습니다",
