@@ -76,6 +76,8 @@
   "subtitle.sanguine.sacrificial_knife.clean": "희생의 칼에서 핏방울이 떨어짐",
   "item.sanguine.butcher_skull": "도살자 해골",
   "item.sanguine.blood_oath.lore": "비어있음",
+  "block.sanguine.credence.gui": "\\ua000 \\ua002\\ua001%s",
+  "block.sanguine.credence.storage": "%s/%s",
   "gamerule.sanguine.true": "참",
   "gamerule.sanguine.false": "거짓",
   "gamerule.sanguine.butchers_break_blocks": "도살자가 블록을 부숨: %s",
