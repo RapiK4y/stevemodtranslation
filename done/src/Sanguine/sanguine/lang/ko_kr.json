@@ -1,6 +1,6 @@
 {
   "pack.sanguine": "Sanguine",
-  "subtitle.sanguine.blood_moon_warning": "§c월식이 손짓함",
+  "subtitle.sanguine.blood_moon_warning": "§c블러드 문이 손짓함",
   "subtitle.sanguine.entity.spawn": "핏덩어리가 나타남",
   "subtitle.sanguine.entity.despawn": "핏덩어리가 가라앉음",
   "entity.sanguine.unborn": "태어나지 못한 자",
@@ -108,8 +108,13 @@
   "subtitle.sanguine.drying_rack.hang_item": "고기를 매달음",
   "subtitle.sanguine.drying_rack.remove_item": "갈고리에서 빼냄",
   "advancement.sanguine.root": "Sanguine",
+  "advancement.sanguine.root.desc": "피와 내장에 대한 모든 것",
+  "advancement.sanguine.blood_moon": "시야가 빨개지도록 즐겨라",
+  "advancement.sanguine.blood_moon.desc": "블러드 문을 조우하세요",
   "advancement.sanguine.kill_blood_mob": "심장마비",
+  "advancement.sanguine.kill_blood_mob.desc": "블러드 문 몬스터를 죽이세요",
   "advancement.sanguine.kill_all_blood_mobs": "찢고 죽여라",
+  "advancement.sanguine.kill_all_blood_mobs.desc": "블러드 문 때 나타나는 모든 몬스터를 하나 이상씩 죽이세요",
   "advancement.sanguine.credence": "희생",
   "advancement.sanguine.credence.desc": "제구대를 만들어, 피로 물든 제작을 시작하세요",
   "advancement.sanguine.drying_rack": "방치해서 말리기",
@@ -132,5 +137,8 @@
   "gamerule.sanguine.reapers_self_detonate": "리퍼가 자폭함: %s",
   "gamerule.sanguine.reapers_self_detonate.desc": "리퍼가 오랫동안 무시당하면 자폭할 수 있습니다",
   "gamerule.sanguine.difficulty": "난이도: %s %s",
-  "gamerule.sanguine.difficulty.normal": "보통"
+  "gamerule.sanguine.difficulty.normal": "보통",
+  "gamerule.sanguine.blood_moon_frequency": "블러드 문 주기 (%s)",
+  "gamerule.sanguine.blood_moon_frequency.desc": "블러드 문이 며칠마다 발생하는지 제어합니다",
+  "gamerule.sanguine.mob_cap": "블러드 문 몬스터 한도 (%s)"
 }
