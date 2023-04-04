@@ -1664,7 +1664,7 @@
   "modifier.tconstruct.blocking.description": "도구와 상호작용하먼 공격을 방어합니다",
   "modifier.tconstruct.parrying": "패링",
   "modifier.tconstruct.parrying.flavor": "도적들의 기술",
-  "modifier.tconstruct.parrying.description": "공격 후에 짧은 시간동안 많은 공격을 흘려냅니다",
+  "modifier.tconstruct.parrying.description": "공격한 후에 잠깐 동안 많은 공격을 흘려냅니다",
   "modifier.tconstruct.melting": "용해",
   "modifier.tconstruct.melting.flavor": "용해 막대기의 힘!",
   "modifier.tconstruct.melting.description": "아이템이나 공격한 적을 녹입니다!",
