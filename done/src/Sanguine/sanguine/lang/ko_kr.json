@@ -150,6 +150,8 @@
   "gamerule.sanguine.butchers_break_containers.desc": "도살자가 돌진으로 상자, 통, 등을 부술 수 있습니다",
   "gamerule.sanguine.reapers_self_detonate": "리퍼가 자폭함: %s",
   "gamerule.sanguine.reapers_self_detonate.desc": "리퍼가 오랫동안 무시당하면 자폭할 수 있습니다",
+  "gamerule.sanguine.monster_stat_scaling.per_player": "플레이어마다",
+  "gamerule.sanguine.monster_stat_scaling.per_player_box": "[플레이어마다]",
   "gamerule.sanguine.difficulty": "난이도: %s %s",
   "gamerule.sanguine.difficulty.normal": "보통",
   "gamerule.sanguine.blood_moon_frequency": "블러드 문 주기 (%s)",
