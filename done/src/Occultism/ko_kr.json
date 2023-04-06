@@ -109,6 +109,8 @@
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_familiar_ring.usage.text": "[](item://occultism:familiar_ring)를 사용하기 위해서는 소환된(또는 길들여진) 사역마를 [#](ad03fc)우클릭[#]()해 [#](ad03fc)장신구[#]()가 된 반지를 착용해 사역마의 능력들을 활용하세요\n\n\n사역반지에서 혼령은 반지에서 자신을 풀어준 사람을 새로운 주인으로 인식합니다.\n",
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_familiar_ring.usage.title": "사용법",
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_foliot_miner.magic_lamp.title": "요술램프",
+  "book.occultism.dictionary_of_spirits.crafting_rituals.craft_infused_pickaxe.name": "주입된 곡괭이",
+  "book.occultism.dictionary_of_spirits.crafting_rituals.craft_marid_miner.name": "마리드 광부",
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_otherworld_goggles.lenses_more.text": "고글 제작에 사용되는 렌즈에 혼령을 소환하는 것은 견습 소환사들이 일반적으로 첫 번째로 시도하는 보다 복잡한 의식으로, 그들의 기술이 기본적인 것을 넘어 발전하고 있음을 보여줍니다.",
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_otherworld_goggles.lenses_more.title": "렌즈 제작",
   "book.occultism.dictionary_of_spirits.crafting_rituals.craft_soul_gem.name": "영혼석",
