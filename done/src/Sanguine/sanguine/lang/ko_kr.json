@@ -93,7 +93,7 @@
   "item.sanguine.blood_binding.lore": "결합 시:",
   "item.sanguine.blood_binding.blank": "결합되지 않음",
   "item.sanguine.blood_binding.selfish_heart": "이기심",
-  "item.sanguine.blood_binding.selfish_heart.lore": "피해를 입을 때마다 주변에 보복 피해를 줍니다",
+  "item.sanguine.blood_binding.selfish_heart.lore": "피해를 입을 때마다 일부 피해를 주변에 보복합니다",
   "item.sanguine.blood_binding.selfish_heart.lore2": "대상에게 짧지만 강력한 속도 감소를 부여합니다",
   "item.sanguine.blood_binding.tough_skin": "질긴 피부",
   "item.sanguine.blood_binding.rebirth": "재탄",
