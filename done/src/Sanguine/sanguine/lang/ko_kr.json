@@ -83,6 +83,8 @@
   "item.sanguine.blood_oath": "피의 서약",
   "item.sanguine.blood_oath.lore": "비어있음",
   "item.sanguine.blood_bottle": "피 병",
+  "subtitle.sanguine.blood_bottle.empty": "피 병을 비움",
+  "subtitle.sanguine.blood_bottle.fill": "피 병을 채움",
   "item.sanguine.chevon": "염소 고기",
   "item.sanguine.chevon_jerky": "염소 고기 육포",
   "item.sanguine.flesh_jerky": "살점 육포",
