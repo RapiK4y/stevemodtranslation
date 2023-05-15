@@ -1322,7 +1322,7 @@
   "modifier.tconstruct.blasting.description": "도구가 광석 같은 폭발에 약한 블록을 더 빠르게 채굴합니다!",
   "modifier.tconstruct.blasting.mining_speed": "폭파 채굴 속도",
   "modifier.tconstruct.hydraulic": "수력",
-  "modifier.tconstruct.hydraulic.flavor": "강력한 물의 힘을 이용하세요!",
+  "modifier.tconstruct.hydraulic.flavor": "물의 힘을 이용하세요!",
   "modifier.tconstruct.hydraulic.description": "빗속이나 물 속에서 채굴 속도가 증가합니다!",
   "modifier.tconstruct.hydraulic.mining_speed": "수중 채굴 속도",
   "modifier.tconstruct.lightspeed": "광속",
