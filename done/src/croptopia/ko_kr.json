@@ -1,6 +1,7 @@
 {
   "item.croptopia.artichoke": "아티초크",
   "item.croptopia.asparagus": "아스파라거스",
+  "item.croptopia.bellpepper": "파프리카",
   "item.croptopia.blackbean": "검은 콩",
   "item.croptopia.blackberry": "블랙베리",
   "item.croptopia.blueberry": "블루베리",
@@ -47,6 +48,7 @@
   "item.croptopia.zucchini": "주키니 호박",
   "item.croptopia.artichoke_seed": "아티초크 씨앗",
   "item.croptopia.asparagus_seed": "아스파라거스 씨앗",
+  "item.croptopia.bellpepper_seed": "파프리카 씨앗",
   "item.croptopia.blackbean_seed": "검은 콩 씨앗",
   "item.croptopia.blackberry_seed": "블랙베리 씨앗",
   "item.croptopia.blueberry_seed": "블루베리 씨앗",
