@@ -386,6 +386,7 @@
   "item.croptopia.salt_ore": "소금 광석",
   "block.croptopia.salt_ore": "소금 광석",
   "block.croptopia.raspberry_crop": "산딸기 작물",
+  "block.croptopia.avocado_sapling": "아보카도 묘목",
   "itemGroup.croptopia.croptopia": "Croptopia",
   "itemGroup.croptopia": "Croptopia"
 }
