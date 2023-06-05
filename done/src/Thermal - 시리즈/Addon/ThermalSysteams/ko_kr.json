@@ -4,7 +4,7 @@
   "item.systeams.boiler_pipe": "증기 파이프",
   "item.systeams.boiler_pipe.keyword": "증기 발전기 보일러",
   "item.thermal.rf_coil.keyword": "증기 발전기 보일러",
-  "item.systeams.boiler_pipe.desc": "Shift-사용으로 발전기를 보일러로 변환합니다. 해당 발전기의 주요 부품을 회수합니다",
+  "item.systeams.boiler_pipe.desc": "Shift-사용으로 발전기를 보일러로 변환합니다. 주요 부품을 회수합니다",
   "item.thermal.rf_coil.desc": "Shift-사용으로 보일러를 발전기로 변환합니다. 증기 파이프를 회수합니다",
   "itemGroup.systeams": "Systeams",
   "info.systeams.steam": "증기",
