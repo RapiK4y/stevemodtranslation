@@ -21,7 +21,7 @@
   "block.pneumaticcraft.advanced_pressure_tube.desc": "Shift-사용으로 발전기를 보일러로 변환합니다. 증기 파이프를 회수합니다",
   "block.systeams.steam_dynamo": "증기 발전기",
   "info.systeams.steam_dynamo.0": "증기를 동력으로 전환합니다.",
-  "info.systeams.steam_dynamo.1": "여기 점점 찜찜해지는데",
+  "info.systeams.steam_dynamo.1": "여기 점점 찜찜해지는데?",
   "block.systeams.steam_dynamo.keyword": "엔진 생성기 보일러 동력",
   "info.systeams.boiler.throttle": "출력이 가득찰때 연료를 낭비하지 않습니다.",
   "block.systeams.stirling_boiler": "열 보일러",
