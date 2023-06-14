@@ -1,1 +1,26 @@
-{}
+{
+    "physicsmod.gui.back": "뒤로",
+    "physicsmod.menu.main.title": "Physics 설정...",
+    "physicsmod.menu.general.title.main": "일반",
+    "physicsmod.menu.general.title.main.info": "한 번에 활성화될 수 있는 물리 개체수를 정의하거나 사용할 최대 스레드수를 정의합니다. 또한 일부 입자 설정이 포함됩니다.",
+    "physicsmod.menu.general.title": "일반 설정",
+    "physicsmod.menu.general.maxphysicsobjects": "최대 물리 개체수",
+    "physicsmod.menu.general.minecraftblockbreakparticles": "MC 파괴 입자",
+    "physicsmod.menu.general.cputhreads": "물리 GPU 스레드수",
+    "physicsmod.menu.general.cputhreads.info": "변경내용을 적용하려면 세계를 리로드해야합니다.",
+    "physicsmod.menu.general.pvpservercompatibility": "PVP 서버 호환",
+    "physicsmod.menu.general.pvpservercompatibility.info": "사망 이벤트를 발생시키지 않고 사라지는 엔티티의 물리를 활성화합니다. 할성화시 벌이 벌통에 들어가거나, 평화로움 모드에서 몹이 변화하거나 생성될 때 물리를 발생시킬 것입니다.",
+    "physicsmod.menu.general.sprintingphysicsparticles": "달리기 입자 물리",
+    "physicsmod.menu.general.sprintingphysicsparticles.info": "블록 위에서 달리는 도중 입자의 물리를 활성화합니다.",
+    "physicsmod.menu.mobs.title.main": "몹",
+    "physicsmod.menu.blocks.title.main": "블록",
+    "physicsmod.menu.ocean.title.main": "바다",
+    "physicsmod.menu.dynamicblocks.title.main": "동적 블록",
+    "physicsmod.menu.liquid.title.main": "액체",
+    "physicsmod.menu.snow.title.main": "눈",
+    "physicsmod.menu.sound.title.main": "소리",
+    "physicsmod.menu.animation.settings.title.main": "애니메이션",
+    "physicsmod.menu.smoke.title.main": "연기",
+    "physicsmod.menu.weather.title.main": "날씨",
+    "physicsmod.menu.credits.title.main": "크레딧"
+}
