@@ -1,9 +1,0 @@
-{
-  "item.minecraft.knowledge_book": "§fRecipe Output",
-
-  "pack.nucleus": "Nucleus",
-  "pack.nucleus.install": "%s v%s installed successfully\n\nInstalled Packs:",
-  "pack.nucleus.addition": "- %s v%s (%s | %s)",
-  "pack.nucleus.addition.gamerules": "Gamerules",
-  "pack.nucleus.addition.wiki": "Wiki"
-}
