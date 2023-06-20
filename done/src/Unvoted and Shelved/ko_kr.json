@@ -44,5 +44,6 @@
   "options.unvotedandshelved.copperButtons": "구리 버튼",
   "options.unvotedandshelved.copperButtons.true": "활성화",
   "options.unvotedandshelved.copperButtons.false": "비활성화",
+  "options.unvotedandshelved.title": "Unvoted & Shelved",
   "options.unvotedandshelved.link": "모드 연결"
 }
