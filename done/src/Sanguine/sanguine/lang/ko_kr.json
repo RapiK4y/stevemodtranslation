@@ -1,4 +1,5 @@
 {
+  "pack.sanguine": "Sanguine",
   "subtitle.sanguine.blood_moon_warning": "§c블러드 문이 손짓함",
   "subtitle.sanguine.entity.spawn": "핏덩어리가 나타남",
   "subtitle.sanguine.entity.despawn": "핏덩어리가 가라앉음",
@@ -152,6 +153,7 @@
   "subtitle.sanguine.blood_binding.gory_glory": "피투성이 영광이 폭발함",
   "block.sanguine.credence": "제구대",
   "block.sanguine.credence.gui": "\\ua000 \\ua002\\ua001%s",
+  "block.sanguine.credence.storage": "%s/%s",
   "block.sanguine.effigy": "우상",
   "subtitle.sanguine.effigy.add_gold": "금이 쩅그랑거림",
   "subtitle.sanguine.effigy.apply_binding": "영혼이 뒤틀림",
@@ -178,6 +180,7 @@
   "ui.sanguine.flesh_tuner.blocked": "살점 조율기가 비활성화 됨",
   "subtitle.sanguine.flesh_tuner.bind": "살점 조율기가 휘감음",
   "subtitle.sanguine.flesh_tuner.unbind": "살점 조율기가 해방함",
+  "advancement.sanguine.root": "Sanguine",
   "advancement.sanguine.root.desc": "피와 내장에 대한 모든 것",
   "advancement.sanguine.blood_moon": "시야가 빨개지도록 즐겨라",
   "advancement.sanguine.blood_moon.desc": "블러드 문을 조우하세요",
