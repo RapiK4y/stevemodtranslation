@@ -1,4 +1,5 @@
 {
+  "itemGroup.finsandtails": "Fins and Tails",
   "item.finsandtails.blu_wee": "블루위",
   "item.finsandtails.blu_wee_bucket": "블루위가 담긴 양동이",
   "item.finsandtails.pea_wee": "피위",
@@ -51,6 +52,8 @@
   "item.finsandtails.banner_pattern_shell.desc": "조개껍질",
   "item.finsandtails.music_disc_crashing_tides": "음반",
   "item.finsandtails.music_disc_whistling_wyverns": "음반",
+  "item.finsandtails.music_disc_crashing_tides.desc": "Mr. Esuoh - Crashing Tides",
+  "item.finsandtails.music_disc_whistling_wyverns.desc": "Mr. Esuoh - Whistling Wyverns",
   "item.finsandtails.blu_wee_spawn_egg": "블루위 생성 알",
   "item.finsandtails.pea_wee_spawn_egg": "피위 생성 알",
   "item.finsandtails.banded_redback_shrimp_spawn_egg": "줄무늬붉은등새우 생성 알",
@@ -98,7 +101,9 @@
   "finsandtails.crab.death": "게가 죽음",
   "finsandtails.crab.crunch": "게가 분쇄됨",
   "entity.finsandtails.vibra_wee.5": "황제",
+  "advancements.finsandtails.root.title": "Fins and Tails",
   "advancements.finsandtails.gopjet_joyride.desc": "곱제트팩을 장착하세요",
+  "advancements.finsandtails.ko.title": "K.O.",
   "advancements.finsandtails.smallest_fish.title": "세상에서 가장 작은 물고기",
   "advancements.finsandtails.smallest_fish.desc": "위 위가 담긴 양동이"
 }
