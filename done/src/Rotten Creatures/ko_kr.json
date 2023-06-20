@@ -46,6 +46,7 @@
   "item.rottencreatures.swampy_spawn_egg": "스왐피 생성 알",
   "item.rottencreatures.treasure_chest": "보물 상자",
   "item.rottencreatures.undead_miner_spawn_egg": "언데드 광부 생성 알",
+  "itemGroup.rottencreatures.rottencreatures": "Rotten Creatures",
   "text.autoconfig.rottencreatures.option.mobSpawns": "몹 생성",
   "text.autoconfig.rottencreatures.option.mobSpawns.burned_weight": "번드 생성 가중치",
   "text.autoconfig.rottencreatures.option.mobSpawns.dead_beard_weight": "죽은 수염 생성 가중치",
