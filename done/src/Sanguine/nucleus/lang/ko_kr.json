@@ -1,8 +1,6 @@
 {
   "item.minecraft.knowledge_book": "§f조합 결과물",
-  "pack.nucleus": "Nucleus",
   "pack.nucleus.install": "%s v%s이(가) 성공적으로 설치되었습니다\n\n포함 팩:",
-  "pack.nucleus.addition": "- %s v%s (%s | %s)",
   "pack.nucleus.addition.gamerules": "게임 규칙",
   "pack.nucleus.addition.wiki": "위키"
 }
