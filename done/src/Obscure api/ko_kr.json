@@ -1,1 +1,27 @@
-{}
+{
+  "obscure_api.ability.bonuses": "§f직업 보너스",
+  "obscure_api.ability.cost.cooldown": "§f(#초§f)",
+  "obscure_api.ability.cost.exp": "§f(# 경험치§f)",
+  "obscure_api.ability.cost.health": "§f(# 체력§f)",
+  "obscure_api.ability.cost.level": "§f(# 레벨§f)",
+  "obscure_api.ability.cost.durability": "§f(# §f)",
+  "obscure_api.ability.modifier.s": "s",
+  "obscure_api.ability.modifier.%": "%",
+  "class_bonus.armor_cooldown.minus": "§2# 갑옷 재사용 대기시간",
+  "class_bonus.armor_cooldown.plus": "§c+# 갑옷 재사용 대기시간",
+  "class_bonus.armor_power.minus": "§c# 갑옷 위력",
+  "class_bonus.armor_power.plus": "§2+# 갑옷 위력",
+  "class_bonus.weapon_cooldown.minus": "§2# 무기 재사용 대기시간",
+  "class_bonus.weapon_cooldown.plus": "§c+# 무기 재사용 대기시간",
+  "class_bonus.weapon_power.minus": "§c# 무기 위력",
+  "class_bonus.weapon_power.plus": "§2+# 무기 위력",
+  "obscure_api.tooltip.collapse": "§f§8능력",
+  "obscure_api.tooltip.expand": "§f§8Shift 누르기",
+  "obscure_api.tooltip.knowledge": "§f§9지식:",
+  "rarity.legendary.name": "전설",
+  "rarity.mythic.name": "신화",
+  "item.obscure_api.astral_dust": "천체의 가루",
+  "item.obscure_api.vial_of_knowledge": "지식의 병",
+  "lore.obscure_api.vial_of_knowledge": "§9지식 (2:00)",
+  "effect.obscure_api.fury": "분노"
+}
