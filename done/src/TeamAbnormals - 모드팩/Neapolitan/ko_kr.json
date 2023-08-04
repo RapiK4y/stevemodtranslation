@@ -220,6 +220,8 @@
   "advancements.neapolitan.husbandry.vanilla_poison.description": "가위로 바닐라 작물을 부수어 유해한 기운이 나오는 것을 막으세요",
   "advancements.neapolitan.husbandry.place_all_chocolate_blocks.description": "아무 종류의 초콜릿 블록을 설치하세요",
   "advancements.neapolitan.husbandry.harvest_white_strawberries.title": "구름 속의 피크닉",
+  "advancements.neapolitan.husbandry.harvest_white_strawberries.description": "높은 고도에서 딸기를 재배하여 하얀 딸기를 얻으세요",
+  "advancements.neapolitan.adventure.chimpanzee_attack.title": "계획된 침팬치 이벤트",
   "advancements.neapolitan.adventure.chimpanzee_attack.description": "바나놔살을 사용해 침팬치를 다른 몹에게 보내세요",
   "death.attack.neapolitan.beanstalkThorns": "%1$s이(가) 콩나무 가시에 찔려 죽었습니다",
   "death.attack.neapolitan.beanstalkThorns.player": "%1$s이(가) %2$s로부터 도망치려다 콩나무 가시에 찔려 죽었습니다",
