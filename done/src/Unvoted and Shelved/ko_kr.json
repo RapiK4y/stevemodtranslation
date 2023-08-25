@@ -41,6 +41,7 @@
   "options.unvotedandshelved.glare.tooltip": "글레어가 존재 가능한지를 결정합니다. 비활성화하면 귀하가 불러온 세계의 모든 글레어가 사라집니다.",
   "options.unvotedandshelved.glare.true": "활성화",
   "options.unvotedandshelved.glare.false": "비활성화",
+  "options.unvotedandshelved.ruinedCapitals": "무너진 수도",
   "options.unvotedandshelved.copperPillars": "구리 기둥",
   "options.unvotedandshelved.copperButtons": "구리 버튼",
   "options.unvotedandshelved.copperButtons.true": "활성화",
