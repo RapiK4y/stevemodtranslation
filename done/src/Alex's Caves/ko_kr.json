@@ -388,6 +388,7 @@
   "entity.alexscaves.guano": "구아노",
   "entity.alexscaves.dark_arrow": "어둠의 화살",
   "fluid.alexscaves.acid": "산",
+  "death.attack.nuke_2": "%s (은)는 원자화 되었습니다",
   "effect.alexscaves.stunned": "기절",
   "effect.alexscaves.rage": "분노",
   "effect.alexscaves.irradiated": "피폭",
