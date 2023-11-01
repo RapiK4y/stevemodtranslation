@@ -42,6 +42,8 @@
   "block.enlightened_end.chorus_roots": "후렴초 뿌리",
   "block.enlightened_end.voikrust_stairs": "보이크러스트 계단",
   "item.enlightened_end.raw_bismuth": "비스무트 원석",
+  "item.enlightened_end.big_ringling_spawn_egg": "링글링 생성 알",
+  "item.enlightened_end.stalker_tooth": "스토커 이빨",
   "block.enlightened_end.adamantite_glass": "아다만타이트 유리",
   "item.enlightened_end.bismuth_ingot": "비스무트 주괴",
   "block.enlightened_end.nullstone_brick_stairs": "널스톤 벽돌 계단",
@@ -65,6 +67,7 @@
   "item.enlightened_end.adamantite_armor_leggings": "아다만타이트 레깅스",
   "block.enlightened_end.malachite_block": "공작석 블록",
   "block.enlightened_end.nullstone_wall": "널스톤 담장",
+  "entity.enlightened_end.big_ringling": "링글링",
   "subtitles.ennegel_mine": "블록이 부서짐",
   "block.enlightened_end.cracked_voikrust_bricks": "금 간 보이크러스트 벽돌",
   "block.enlightened_end.nullstone_slab": "널스톤 반 블록",
@@ -113,5 +116,6 @@
   "block.enlightened_end.nullstone": "널스톤",
   "block.sustainableend.chorus_sprouts": "후렴초 새싹",
   "subtitles.nullstone_break": "블록이 부서짐",
-  "block.nourished_end.voikrust": "보이크러스트"
+  "block.nourished_end.voikrust": "보이크러스트",
+  "item.enlightened_end.cooked_ringling": "익힌 링글링"
 }

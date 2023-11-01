@@ -14,6 +14,7 @@
 	"blueprint.screen.slabfish_settings.title": "평판어 모자 설정",
 	"blueprint.screen.slabfish_settings.tooltip": "팀 Abnormals 의 후원자를 위한 설정입니다. %s 에서 후원자가 되어주세요.",
 	"blueprint.message.redirect": "리다이렉트 중",
+	"biome.blueprint.original_source_marker": "Original Source Marker",
 	"entity.blueprint.boat": "보트",
 	"entity.blueprint.chest_boat": "상자가 실린 보트"
 }
