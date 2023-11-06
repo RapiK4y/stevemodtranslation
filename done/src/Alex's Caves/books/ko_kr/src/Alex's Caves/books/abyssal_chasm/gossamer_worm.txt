@@ -13,5 +13,5 @@
     • 10.0 ♥
 
 
-    Gossamer Worms are large polychaete worms found swimming around the waters of the Abyssal Chasm. These drifting glowing worms are a favorite treat of the Hullbreaker.
-    Gossamer Worms can be captured with a bucket of water. If slain, they can drop §lBioluminessence§r, the source of their blue glow...
+    고사머 벌레는 심연의 틈새 주변에서 헤엄치는 갯지렁이류 벌레입니다. 이 떠다니며 빛나는 벌레들은 선체파괴자가 제일 좋아하는 먹이입니다.
+    고사머 벌레는 물 양동이를 이용해 잡을 수 있습니다. 고사머 벌레를 죽이면 그 푸른 빛의 원천인 §l생물발광질§r을 얻을 수 있습니다.
