@@ -13,6 +13,7 @@
     • 15.0 ♥
     • 3.0 🗡
     • 2.0 ⛨
-    Corrodents are fossorial rodents found tunneling through the walls and floors of the Forlorn Hollows. These hostile beasts will emerge when they detect prey near them, and attempt to bite with their sharp front teeth.
-    They can be difficult to fight, due to their ability to easily move through almost any block. But Corrodents are deathly afraid of all light, and simply placing a bright light like a torch near them will shock and scare them. During this attempt to flee, they can easily be slain.
-    If slain, Corrodents can drop some of the coarse dirt they have dug up, and possibly some §lCorrodent §lTeeth§r.
+    Corrodents는 Forlorn Hollows의 벽과 바닥을 통해 터널을 통해 발견되는 화석 설치류입니다.
+코로던트는 버림받은 공동의 벽과 바닥에 굴을 파고 지나다니는 굴 파는 설치류입니다. 이 적대적인 짐승은 근처에 있는 사냥감을 발견하면 날카로운 앞니로 물어뜯고자 나타날 것입니다.
+    그들은 거의 모든 블록을 쉽게 통과할 수 있기 때문에 싸우기 어려울 수 있습니다. 하지만 코로던트들은 모든 빛을 죽을만큼 두려워 하며, 횃불처럼 밝은 빛을 가까이 두는 것만으로도 그들은 충격과 공포에 빠질 것입니다. 도망치려는 동안에, 쉽게 처치할 수 있습니다.
+    코로던트가 죽으면 자신들이 파낸 거친 흙 일부를 떨어트릴 수 있으며, §l코로던트 §l이빨§r도 떨어트릴 수 있습니다.
