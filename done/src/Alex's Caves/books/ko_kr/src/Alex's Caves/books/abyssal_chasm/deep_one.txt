@@ -13,12 +13,12 @@
     • 30.0 ♥
     • 3.0 🗡
 
-    The Deep Ones are some of the most mysterious and poorly-understood beings in all the Overworld.
-    There are three species of Deep One, and they all live in a harmonious balance with each other, forming a single syncretic society.
-    Initially, all Deep Ones will be wary of outsiders. They will follow and stalk any intruders to their abyssal domain from the shadows, and attempt to flee if spotted or chased.
-    If a Deep One is cornered, it will toss an Ink Bomb and then disappear from sight. If hurt, the opinion of the attacker for all Deep Ones will decrease permanently, and they will eventually become outright hostile to the intruder.
-    However, improving one's standing with the Deep Ones is not too difficult. Placing a Pearl on an Abyssal Altar near them can initiate an exchange of goods, which will gradually improve their opinion.
-    Eventually, Deep Ones may gain such a favorable opinion of an adventurer that they will no longer flee their gaze and even assist in combat.
-    In battle, Deep Ones will use their sharp claws and fast swim speed to brutally chase down and tear their prey, along with their sharp teeth-filled maws.
+    딥 원은 오버월드를 통틀어 가장 신비하고 이해되지 않는 존재 중 하나입니다.
+    딥 원은 세 가지 종으로 나뉘는데, 모두가 하나의 혼합된 사회를 이루어 서로 조화로운 균형을 유지하며 살아갑니다.
+    모든 딥 원이 처음에는 외부인을 경계합니다. 그들은 그림자 속에서 심연의 영역에 들어오는 모든 침입자들의 뒤를 밟으며, 들키거나 쫓기면 도망치려고 들것입니다.
+    딥 원은 구석에 몰린다면, 먹물 폭탄을 던지고 시야에서 사라집니다. 딥 원에게 상처를 입히면 모든 딥 원들에 대한 공격자의 평판이 영구적으로 낮아지며, 결국엔 공격자에게 완전히 적대적으로 대할 것입니다.
+    하지만, 딥 원들에게 잘 보이는 건 그리 어렵지 않습니다. 그들 근처의 심연의 제단에 진주를 올려 두면 교환을 시작 할 수 있고, 그들 사이에서의 평판은 점차 개선될 것입니다.
+    결국 딥 원들은 모험가에게 매우 호의적인 평판을 얻어 더 이상 시선을 피하지 않고 심지어 전투에 도움을 주기까지 할 것입니다.
+    전투에 있어서 딥 원들은 날카로운 발톱과 빠른 수영 속도를 이용해 인정사정 없이 쫓고, 날카로운 이빨이 가득찬 턱으로 찢을 것입니다.
 
-    Deep Ones can offer a variety of items to exchange at an altar, including sponges, Sea Glass Shards, and even a §lGazing §lPearl§r...
+    딥 원은 제단에서의 교환을 통해 다양한 아이템을 제공합니다. 스펀지, 바다 유리 파편, 심지어 §l응시하는 §l진주§r까지...
