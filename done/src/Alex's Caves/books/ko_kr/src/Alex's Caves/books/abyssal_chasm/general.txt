@@ -1,7 +1,7 @@
 
 
-    The §lAbyssal §lChasm§r is a biome found deep in the world, but unlike other cave biomes it is covered by hundreds of blocks of water, not stone.
-    It is found exclusively under ocean biomes, and appears as a massive trench where light barely penetrates. The trench walls are lined with Abyssmarine, a stone-like block, and the abyssal floor is covered in a thick layer of Muck.
+    §l심연의 §l틈새§r는 세계 깊은 곳에서 찾을 수 있는 바이옴입니다. 하지만 다른 동굴 바이옴과 다르게 심연의 틈새는 돌이 아닌 수백 블럭의 물로 감싸여 있습니다.
+    이 바이옴은 오직 바다 바이옴 아래서만 발견되며, 빛이 거의 들어오지 않는 거대한 해구처럼 보입니다. The trench walls are lined with Abyssmarine, a stone-like block, and the abyssal floor is covered in a thick layer of Muck.
 
 
 
