@@ -13,18 +13,18 @@
 
 
 
-    테스트
+    심연의 틈새에 오신 것을 환영합니다...
 
-    • {Introduction|abyssal_chasm/general.json}
-    • {Resources|abyssal_chasm/resources.json}
-    • Inhabitants
-        • {Lanternfish|abyssal_chasm/lanternfish.json}
-        • {Sea Pig|abyssal_chasm/sea_pig.json}
-        • {Hullbreaker|abyssal_chasm/hullbreaker.json}
-        • {Gossamer Worm|abyssal_chasm/gossamer_worm.json}
-        • {Tripodfish|abyssal_chasm/tripodfish.json}
-        • {Deep One|abyssal_chasm/deep_one.json}
-        • {Deep One Knight|abyssal_chasm/deep_one_knight.json}
-        • {Deep One Mage|abyssal_chasm/deep_one_mage.json}
-        • {Mine Guardian|abyssal_chasm/mine_guardian.json}
-    • {Utilities|abyssal_chasm/utilities.json}
+    • {소개|abyssal_chasm/general.json}
+    • {자원들|abyssal_chasm/resources.json}
+    • 서식 생명체
+        • {샛비늘치|abyssal_chasm/lanternfish.json}
+        • {바다돼지|abyssal_chasm/sea_pig.json}
+        • {선체파괴자|abyssal_chasm/hullbreaker.json}
+        • {고사머 벌레|abyssal_chasm/gossamer_worm.json}
+        • {세발치|abyssal_chasm/tripodfish.json}
+        • {딥 원|abyssal_chasm/deep_one.json}
+        • {딥 원 기사|abyssal_chasm/deep_one_knight.json}
+        • {딥 원 마술사|abyssal_chasm/deep_one_mage.json}
+        • {기뢰 가디언|abyssal_chasm/mine_guardian.json}
+    • {쓸모 있는 것들|abyssal_chasm/utilities.json}
