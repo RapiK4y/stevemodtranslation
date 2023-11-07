@@ -25,12 +25,12 @@
 
 
 
-    심연의 틈새에서 나오는 모든 드라운드는 §l잠수복§r의 일부 부위를 입고 있곤 합니다. 잠수복은 심연 유적의 상자에서 나타나기도 합니다.
+    심연의 틈새에서 나오는 모든 드라운드는 §l잠수복§r의 일부 부위를 입고 있곤 합니다. 또한 잠수복은 심연 유적의 상자에서도 얻을 수 있습니다.
 
 
-    잠수복 헬멧은 물 밖에서 착용하면 40초의 수중 호흡을 부여해 탐험가들이 심연의 틈새에서 있을 수 있는 시간을 크게 늘려 줍니다. 흉갑은 추가적인 단단함을 가지며, 레깅스는 더 빠른 수영 속도를 제공합니다. 부츠는 착용자가 진창 블럭에서도 빠르게 움직이도록 해 줍니다.
-    심연 유적에는 때때로 §l잠수함§r이 있기도 합니다. 파손된 잠수함은 구리 주괴를 사용해서 수리할 수 있고, 산화된 것은 도끼를 이용해 제거할 수 있습니다. Once repaired, a Submarine can be piloted and even sports floodlights to improve visibility of the depths. When piloted, Submarines provide a constant amount of air, making them one of the safest ways to get around in the Abyssal Chasm.
-    To create an entirely new submarine will require multiple copper blocks, an Enigmatic Engine and a few Depth Glass blocks. Simply surround the Enigmatic Engine with a copper cube, and make sure to use six depth glass to mark the front of the vehicle.
+    잠수복 헬멧은 물 밖에서 착용하면 40초의 수중 호흡을 부여해 탐험가들이 심연의 틈새에서 있을 수 있는 시간을 크게 늘려 줍니다. 흉갑을 입으면 추가적인 방어 강도를 얻으며, 레깅스를 신으면 더 빠르게 헤엄칠 수 있습니다. 부츠는 착용자가 진창 블럭에서도 빠르게 움직이도록 해 줍니다.
+    심연 유적에는 때때로 §l잠수함§r이 있기도 합니다. 파손된 잠수함은 구리 주괴를 사용해서 수리할 수 있고, 산화된 부분은 도끼를 이용해 제거할 수 있습니다. 한 번 수리된 잠수함은 조종할 수 있을 뿐만 아니라, 심해에서 가시성을 향상시켜 주는 투광등을 조사할 수도 있습니다. 잠수함을 조종하는 동안에는 고정된 양의 산소를 얻을 수 있습니다. 이것은 심연의 틈새를 돌아다니는 가장 안전한 방법 중 하나입니다.
+    완전히 새로운 잠수함을 만드는 데는 여러 구리 블럭, 수수께끼의 엔진, 그리고 약간의 심해용 유리 블럭이 필요합니다. 수수께끼의 엔진을 구리 블럭으로 감싸고, 잠수함의 앞부분을 여섯 개의 심해용 유리로 표시해야 합니다.
 
     Abyssal ruins also make use of §lDrain§r blocks, which can be crafted with Depth Charges.
 
