@@ -14,7 +14,7 @@
     • 6.0 🗡 (기초)
 
     포세이큰은 버림받은 공동에서 발견되는 가장 강력한 몬스터지만, 이 몬스터는 지저 광신도들이 베스퍼를 희생해 의식을 거행할 때만 생성됩니다. 그들은 버림받은 공동에 속하지 않은 거의 모든 것에 적대적이고, 가능한 많은 글룸모스를 먹으려 들 것입니다.
-    가장 강력한 어둠의 마술이 깃든 포세이큰은 먹잇감을 신속하게 처치하기 위해 다양한 공격 방식을 지니고 있습니다. 그것들에는 그 커다란 윗팔을 사용하여 아래의 땅을 분쇄하거나, 먹이를 난도질 하거나, 심지어 들어올리고, 그 먹이를 물어뜯기 위해 입으로 가져오는 것을 포함합니다.
-    포세이큰은 또한 믿을 수 없을 정도의 도달 거리를 가진 장거리 음파 폭발과 근거리에 있는 모든 적들에게 피해를 입히는 단거리 음파 폭발을 내뿜을 수 있습니다. These sonic blasts deal extra damage towards monsters that utilize sound, such as the Warden.
+    가장 강력한 어둠의 마술이 깃든 포세이큰은 먹잇감을 신속하게 처치하기 위해 다양한 공격 방식을 지니고 있습니다. 그 공격 방식들은 커다란 윗팔을 사용하여 아래의 땅을 분쇄하거나, 먹이를 난도질 하거나, 심지어 먹이를 집어들고 입 안에 넣어 물어뜯는 것을 포함합니다.
+    포세이큰은 또한 믿을 수 없을 정도의 사거리를 가진 장거리 음파 폭발과 근거리에 있는 모든 적들에게 피해를 입히는 단거리 음파 폭발을 내뿜을 수 있습니다. These sonic blasts deal extra damage towards monsters that utilize sound, such as the Warden.
     When brought down to low health, the Forsaken's shadowy magical aspects will become readily apparent as it becomes pitch black, except for its red eyes. Donning this shadow state, the Forsaken will rapidly heal as long as it is out of direct light.
     If slain, the Forsaken will drop multitudes of §lPure §lDarkness§r...
