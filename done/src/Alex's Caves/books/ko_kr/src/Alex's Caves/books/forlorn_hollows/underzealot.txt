@@ -13,7 +13,7 @@
     • 20.0 ♥
     • 4.0 🗡
 
-    지저 광신도는 버림받은 공동을 배회하는 지능적이고 두더지 같은 이교도입니다. These hostile creatures have poor vision, so they have a naturally low detection range. However, fighting them is not easy as after every slash from their claws, they will burrow underground and appear somewhere else nearby.
+    지저 광신도는 버림받은 공동을 배회하는 지능적이고 두더지 같은 이교도입니다. 이 적대적인 생물은 시력이 좋지 않기 때문에 자연스레 탐지 범위가 낮습니다. However, fighting them is not easy as after every slash from their claws, they will burrow underground and appear somewhere else nearby.
     Underzealots almost always appear in groups, making combat with them even more difficult. Fearing light, Underzealots will regularly break any many light sources they can - including torches. But there are worse reasons to fear these stout cultists - their rituals.
     When they find a Gloomoth, presumably one fluttering around a low-laying torch, they will attempt to run after it and catch it. If they do, then a ritual will start if three or more other Underzealots take notice.
     During this ritual, an eminence of a dark, otherworldly power will breifly appear in this realm. It will focus all of its dark energy on the hapless sacrifice, warping it into a new kind of monster. For Gloomoths, this new monster is the Watcher.
