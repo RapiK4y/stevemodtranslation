@@ -8,7 +8,7 @@
 
 
     바다돼지가 만들어내는 마린 스노는 죽은 산호를 살려낼 수 있습니다. 그리고 마린 스노는 스폰지를 다른 바다 생물처럼 자라게 할 수도 있습니다.
-    고사머 벌레에게서 얻을 수 있는 생물발광질은 양조하여 발광 포션을 만들 때 쓰입니다. It can also be crafted into a §lFloater§r, a device that allows one to reach the surface of the sea in mere seconds.
+    고사머 벌레에게서 얻을 수 있는 생물발광질은 양조하여 발광 포션을 만들 때 쓰입니다. 생물발광질은 단 몇 초 안에 수면에 닿을 수 있게 해주는 도구인 §l부유기§r를 만들 때도 사용할 수 있습니다.
 
 
 
@@ -18,18 +18,18 @@
 
 
 
-    Or it can be turned into some §lBioluminescent §lTorches§r that glow even underwater.
+    아니면 물 속에서도 빛나는 §l생물발광 §l횃불§r을 만들 때도 쓰입니다.
 
 
 
 
 
 
-    Any Drowned that appear in the Abyssal Chasm may be wearing parts of the §lDiving §lSuit§r Armor. These can also appear in chests in Abyssal Ruins.
+    심연의 틈새에서 나오는 모든 드라운드는 §l잠수복§r의 일부 부위를 입고 있곤 합니다. 잠수복은 심연 유적의 상자에서 나타나기도 합니다.
 
 
-    The Diving Helmet grants forty seconds of water breathing when worn out of water, vastly extending the period in which explorers can stay in the Abyssal Chasm. The chestplate has additional toughness, and the leggings grant extra swim speed. The boots allow faster speed on Muck blocks.
-    The Abyssal Ruins can also occasionally hold a §lSubmarine§r. Submarines in disrepair can be fixed by using copper ingots on them, and any oxidization can be removed with an axe. Once repaired, a Submarine can be piloted and even sports floodlights to improve visibility of the depths. When piloted, Submarines provide a constant amount of air, making them one of the safest ways to get around in the Abyssal Chasm.
+    잠수복 헬멧은 물 밖에서 착용하면 40초의 수중 호흡을 부여해 탐험가들이 심연의 틈새에서 있을 수 있는 시간을 크게 늘려 줍니다. 흉갑은 추가적인 단단함을 가지며, 레깅스는 더 빠른 수영 속도를 제공합니다. 부츠는 착용자가 진창 블럭에서도 빠르게 움직이도록 해 줍니다.
+    심연 유적에는 때때로 §l잠수함§r이 있기도 합니다. 파손된 잠수함은 구리 주괴를 사용해서 수리할 수 있고, 산화된 것은 도끼를 이용해 제거할 수 있습니다. Once repaired, a Submarine can be piloted and even sports floodlights to improve visibility of the depths. When piloted, Submarines provide a constant amount of air, making them one of the safest ways to get around in the Abyssal Chasm.
     To create an entirely new submarine will require multiple copper blocks, an Enigmatic Engine and a few Depth Glass blocks. Simply surround the Enigmatic Engine with a copper cube, and make sure to use six depth glass to mark the front of the vehicle.
 
     Abyssal ruins also make use of §lDrain§r blocks, which can be crafted with Depth Charges.
