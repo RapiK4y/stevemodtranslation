@@ -13,6 +13,6 @@
     • 8.0 ♥
 
 
-    Sea Pigs are gelatinous invertebrates found on the sea floor within the Abyssal Chasm. Slowly trudging along on their many legs, they sift through the Muck to look for anything edible.
-    Sea Pigs can drop themselves if they die, and can be eaten, although their flesh is poisonous. They can be captured with a Bucket of Water.
-    If fed Muck, a clay ball or mud, the Sea Pig will begin to digest the item. They may produce a decent amount of muck or clay during this, but can also return bone meal, Sea Glass Shards, Pearls and even §lMarine §lSnow§r...
+    바다돼지는 심연의 틈새의 바다 밑바닥에서 찾아볼 수 있는 젤라틴질의 무척추동물입니다. 바다돼지는 수많은 다리를 천천히 터벅거리며, 진창에 먹을 것이 없는지 샅샅히 뒤집니다.
+    바다돼지는 죽으면 살점에 독이 있지만 먹을 수 있는 바다돼지 자신을 떨어뜨립니다. 바다돼지는 물 양동이를 이용해 잡을 수 있습니다.
+    바다돼지에게 진창이나, 점토 덩이 또는 진흙을 먹이면 바다돼지는 그것들을 소화하기 시작합니다. 바다돼지는 상당한 양의 진창이나 점토를 처리하며, 뼛가루나 바다 유리 파편, 진주나 심지어는 §l마린 §l스노§r까지 도로 뱉어냅니다.
