@@ -38,14 +38,14 @@
 
     어떤 룬이 어떤 글자를 표현하는지에 대한 지식은 목표 단어를 찾는 데 도움이 됩니다. 이 과정을 세 번 마치면 석판과 종이는 §l동굴 §l두루마리§r가 됩니다.
 
-    These codices have multiple uses. They can be used to gain more knowledge about the specific cave biome which they relate to.
+    이 두루마리에는 여러 쓸모가 있습니다. 이것들은 관련된 특정 동물 생물군계에 대한 지식을 더 얻는 데 쓰일 수 있습니다.
 
 
 
 
 
 
-    Additionally, extra codices can be crafted with paper to craft a  §lCave §lMap§r.
+    더하여, 여분의 두루마리는 종이와 함께 조합해 §l동굴 §l지도§r를 만들 수 있습니다.
 
 
 
@@ -54,4 +54,4 @@
 
 
 
-    Cave Maps can point to the nearest cave biome detailed by the codex. The process of creating a Cave Codex seems to imdue this map with an uncanny range and responsiveness.
+    동굴 지도는 두루마리에 기록된 가장 가까운 동굴 생물군계를 가리킵니다. 동굴 두루마리를 만드는 과정은 이 지도에 초자연적인 범위와 민감도를 부여하는 것 같습니다.
