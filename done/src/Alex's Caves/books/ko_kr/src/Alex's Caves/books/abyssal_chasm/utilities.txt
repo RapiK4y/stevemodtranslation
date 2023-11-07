@@ -32,17 +32,17 @@
     심연 유적에는 때때로 §l잠수함§r이 있기도 합니다. 파손된 잠수함은 구리 주괴를 사용해서 수리할 수 있고, 산화된 부분은 도끼를 이용해 제거할 수 있습니다. 한 번 수리된 잠수함은 조종할 수 있을 뿐만 아니라, 심해에서 가시성을 향상시켜 주는 투광등을 조사할 수도 있습니다. 잠수함을 조종하는 동안에는 고정된 양의 산소를 얻을 수 있습니다. 이것은 심연의 틈새를 돌아다니는 가장 안전한 방법 중 하나입니다.
     완전히 새로운 잠수함을 만드는 데는 여러 구리 블럭, 수수께끼의 엔진, 그리고 약간의 심해용 유리 블럭이 필요합니다. 수수께끼의 엔진을 구리 블럭으로 감싸고, 잠수함의 앞부분을 여섯 개의 심해용 유리로 표시해야 합니다.
 
-    Abyssal ruins also make use of §lDrain§r blocks, which can be crafted with Depth Charges.
+    심연 유적은 폭뢰를 이용해 조합할 수 있는 §l배수구§r 블럭도 이용합니다.
 
 
 
 
 
 
-    Provided there is liquid above and empty space below when activated with redstone, this block will move all the fluids above it below it, making it convenient for aquatic construction.
-    Deep Ones can exchange a large variety of items - some unique to only them. A common one is the §lInk §lBomb§r and §lGlow §lInk §lBomb§r, which create a pool of ink when thrown that can inflict blindness and glowing, respectively. The glowing variant can be useful to gain the attention of a nearby Hullbreaker.
-    The Gazing Pearl can be a helpful novelty to keep track of the opinion held by the Deep Ones. It changes color depending on their mood towards the outsider gazing upon it.
-    The Orthrolance is a melee weapon that can be held down to gain a powerful charge attack. This charge will leave a trail of waves behind it, which deal additional damage.
-    The Magic Conch can be blown in order to summon multiple deep ones to aid in combat, anywhere in the world. They will only linger for a short period of time, so it is best to save this for large battles.
-    The Sea Staff is a weapon that fires magical bolts of water rapidly, which can arc towards nearby monsters. 
+    만약 배수구 블럭 위에 액체가 있고 아래엔 빈 공간이 있으면, 레드스톤 신호를 받았을 때 위에 있는 모든 액체를 아래로 옮깁니다. 이것은 수중 건축물을 만들 때 편리합니다.
+    딥 원은 다양한 종류의 아이템을 교환해 줍니다. 어떤 것들은 그들에게서만 얻을 수 있는 고유한 것입니다. 일반적인 것으로는 §l먹물 §l폭탄§r과§l빛나는 §l먹물 §l폭탄§r이 있습니다. 이것들을 던지면 각각 실명이나 발광을 부여하는 잉크 웅덩이를 만듭니다. 빛나는 먹물 폭탄은 선체파괴자의 주의를 끄는 데에도 유용합니다.
+    응시하는 진주는 딥 원의 평판을 확인하는 데 신기한 도움을 줍니다. 이것은 바라보는 외부인에 대한 딥 원들의 마음에 따라 색을 바꿉니다.
+    뿔조개 창은 누르고 있으면 강력한 돌진 공격을 사용할 수 있는 근접 무기입니다. 이 돌진은 추가적인 피해를 주는 파도의 흔적을 뒤에 남깁니다.
+    마법의 소라고동은 불기만 하면 세계 어디서든 전투를 도와주는 여러 딥 원들을 소환할 수 있는 아이템입니다. 소환된 딥 원들은 짧은 시간 동안만 유지되니, 큰 전투를 위해 마법의 소라고동을 아끼는 것이 좋습니다.
+    바다의 지팡이는 호를 그리며 주변의 몬스터에게 날아가는 마법의 물화살을 빠르게 발사하는 무기입니다. 
 
