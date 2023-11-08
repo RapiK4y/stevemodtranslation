@@ -13,14 +13,14 @@
 
 
 
-    Welcome to the Magnetic Caves...
+    자성 동굴에 오신 것을 환영합니다...
 
-    • {Introduction|magnetic_caves/general.json}
-    • {Resources|magnetic_caves/resources.json}
-    • Inhabitants
-        • {Teletor|magnetic_caves/teletor.json}
-        • {Magnetron|magnetic_caves/magnetron.json}
-        • {Boundroid|magnetic_caves/boundroid.json}
-        • {Ferrouslime|magnetic_caves/ferrouslime.json}
-        • {Notor|magnetic_caves/notor.json}
-    • {Utilities|magnetic_caves/utilities.json}
+    • {소개|magnetic_caves/general.json}
+    • {자원|magnetic_caves/resources.json}
+    • 서식 생명체
+        • {텔레토어|magnetic_caves/teletor.json}
+        • {마그네트론|magnetic_caves/magnetron.json}
+        • {바운드로이드|magnetic_caves/boundroid.json}
+        • {철질슬라임|magnetic_caves/ferrouslime.json}
+        • {노터|magnetic_caves/notor.json}
+    • {유용한 것|abyssal_chasm/utilities.json}
