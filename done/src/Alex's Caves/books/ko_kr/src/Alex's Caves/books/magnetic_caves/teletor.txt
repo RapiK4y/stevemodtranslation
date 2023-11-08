@@ -11,11 +11,11 @@
 
 
     • 18.0 ♥
-    • 2.0 🗡 (Base)
+    • 2.0 🗡 (기초)
 
-    Meditating over the floor of the Magnetic Caves is the Teletor, Galena-covered beings of dubious origin.
-    Although they may seem calm and collected while doing this, Teletor are extremely hostile. Above their large, magnetic heads usually rests an iron tool of some kind. This tool is their main weapon, and they can move it back and forth to deal continous ranged damage. These tools can be anything from a weak iron hoe to an enchanted iron sword.
+    방연석으로 덮인 출처 불명의 존재인 텔레토어는 자성 동굴의 바닥에서 명상하는 생물입니다.
+    명상하는 동안 침착하고 진정되어 있는 것처럼 보임에도 불구하고, 텔레토어는 사실 엄청나게 적대적입니다. 그들의 거대하고 자성을 띄는 머리 위에는 보통 어떤 종류의 철 도구가 놓여있습니다. 이 도구는 그들의 주 무기로, 텔레토어는 이것을 앞뒤로 움직이며 지속적인 원거리 피해를 입힐 수 있습니다. 이 도구들은 약한 철 괭이부터 인챈트된 철 검까지 뭐든지 될 수 있습니다.
 
-    Using their magnetic meditation powers, Teletor also have the latent ability to fly, although only at slow speeds. They can strafe in the air while attacking, making them a danger to any explorers of the Magnetic Caves.
+    텔레토어는 마법적인 명상의 힘을 사용해 느리게나마 날 수도 있습니다. 이들은 허공에 뜬 채로도 공격할 수 있어 자성 동굴의 모든 탐험가들에게 위험이 됩니다.
 
-    If slain, a Teletor can drop a §lTelecore§r with some Scarlet or Azure Neodymium. This makes them a renewable source of these precious minerals - although this comes at a cost.
+    텔레토어를 처치하면 약간의 진홍빛 또는 하늘색 네오디뮴과 함꼐 §l텔레코어§r를 떨어트립니다. 그래서 이들은 귀중한 광석의 지속 가능한 원천이 되어줍니다. 비용이 좀 들지만 말입니다.
