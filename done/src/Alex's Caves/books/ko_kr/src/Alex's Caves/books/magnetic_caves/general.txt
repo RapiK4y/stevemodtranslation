@@ -1,12 +1,12 @@
 
 
-    The §lMagnetic §lCaves§r can be characterized by giant Neodymium crystals emerging from a terrain composed of Galena, an iron-rich stone. These crystals are where this cave gets its name from, and they come in two varieties - Scarlet Neodymium and Azure Neodymium.
+    §l자성 §l동굴§r은 철이 풍부하게 함유된 방연석으로 이루어진 대지에서 드러나는 거대한 네오디뮴 크리스탈을 통해 특징지어집니다. 동굴 이름의 어원이 된 이 크리스탈은 진홍빛 네오디뮴과 하늘빛 네오디뮴의 두 가지 종류로 나뉩니다.
 
 
 
 
 
-    Scarlet Neodymium attracts all metallic objects, such as iron and netherite equipment, whereas Azure repels them.
+    진홍빛 네오디뮴은 모든 철이나 네더라이트 장비와 같은 자성 물체를 끌어당깁니다. 하늘빛 네오디뮴은 반대로 밀어냅니다.
     It is still unknown how or why this biome has Neodymium in vast quantities, although it has not been without effect on the local area - numerous beings have adapted to this place and call it home, and the caves are littered with odd mining bases created with the purpose of extracting as many minerals from this place as possible.
     Due to the effects of magnetism on iron and netherite equipment, it is best to explore the Magnetic Caves using non-magnetic armor and tools - although, there are some positives to using metal boots.
     If worn, they can allow the wearer to walk on any surface of a Scarlet Neodymium block, including the sides and underneath.
