@@ -13,6 +13,6 @@
     • 6.0 ♥
 
 
-    The Notor is a strange, hovering passive creature found in the Magnetic Caves. Although it cannot attack, they are definitely nuisances in their own right, as Notors will attempt to scan any foreign beings nearby.
-    Notors will use these scans to build a hologram, in order to report back to monsters in this biome about possible invaders. Any monster witnessing these holograms will instantly know where to focus its aggressive energy on.
-    When killed, Notors can drop a §lNotor §lGizmo§r, the source of their holographic abilities...
+    노터는 자성 동굴에서 발견되는 기묘한 부유하는 비공격적 생물입니다. 노터는 공격할 수 없지만, 주변에 있는 외부의 존재를 뭐든 스캔하려고 시도하기 때문에 분명 귀찮을 것입니다.
+    노터는 스캔한 것들을 홀로그램으로 만드는 데 사용하는데, 이는 동굴의 몬스터에게 가능한 침입자들에 대해 보고하기 위해서입니다. 이 홀로그램을 목격한 모든 몬스터는 그 공격적인 에너지를 어디에 집중해야 할 지 바로 알게 될 것입니다.
+    노터를 죽이면 그 홀로그램 능력의 원천인 §l노터 §l기즈모§r를 떨어트릴 것입니다.
