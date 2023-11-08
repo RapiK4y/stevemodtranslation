@@ -22,14 +22,14 @@
 
 
 
-    네오디뮴 주괴는 쓸모가 많습니다. The Azure Neodymium Ingot can be used to create Magnetic Levitation Rails, which lift any minecart that rolls over them into the air - and moves it faster than any normal rail.
+    네오디뮴 주괴는 쓸모가 많습니다. 하늘빛 네오디뮴 주과는 자기 부상 레일을 만들 때 쓰입니다. 이것은 마인카트를 들어올려 공기 중에 띄우고, 어떤 일반적인 레일보다도 빠르게 움직이게 합니다.
 
 
 
 
 
 
-    The Scarlet Neodymium Ingot crafted into create Seeking Arrows, which will curve towards any nearby entity they fly past.
+    진홍빛 네오디뮴 주괴는 추적 화살을 만들 때 쓰입니다. 이 화살은 날아가는 곳 주변의 물체를 향해 휘어질 것입니다.
 
 
 
@@ -37,4 +37,4 @@
 
 
 
-    Neodymium has other powerful uses, but most of these require the remains of powerful beings...
+    네오디뮴은 다른 강력한 쓸모가 많지만, 대부분 강력한 존재들의 유해를 사용해야 합니다.
