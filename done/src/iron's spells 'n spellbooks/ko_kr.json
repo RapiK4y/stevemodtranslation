@@ -165,6 +165,7 @@
   "item.irons_spellbooks.priest_spawn_egg": "사제 생성 알",
   "block.irons_spellbooks.pedestal": "제단",
   "block.irons_spellbooks.alchemist_cauldron": "연금술사의 가마솥",
+  "block.irons_spellbooks.firefly_jar": "반딧불이가 든 병",
   "tooltip.irons_spellbooks.mana_cost": " %d 마나 소모",
   "tooltip.irons_spellbooks.mana_cost_per_second": " 초당 %d 마나 회복",
   "tooltip.irons_spellbooks.cooldown_length_seconds": "쿨타임 %d 초",
