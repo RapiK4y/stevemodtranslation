@@ -1,20 +1,13 @@
 
 
-    The various resources of the Toxic Caves can be combined into a Polymer Plate, a highly resistant material.
+    유독성 동굴의 다양한 자원들은 높은 내성을 가진 폴리머 판으로 조합할 수 있습니다.
 
 
 
 
 
 
-    These Polymer Plates can be assembled into §lHazmat §lArmor§r, which lowers the damage and effects of Irradiated and Acid.
-
-
-
-
-
-
-
+    이렇게 만들어진 폴리머 판은 산과 방사선에 의한 피해를 경감시켜주는 방호복의 제작에 사용됩니다.
 
 
 
@@ -32,15 +25,6 @@
 
 
 
-    Polymer Plates can also be made into a §lRemote §lDetonator§r, which can activate marked explosives from elsewhere in the world.
-
-
-
-
-
-
-    Together with a Fissile Core and some Uranium Rods, it can also be crafted into the §lRaygun§r. This ranged weapon shoots a beam of radioactive energy that damages all entities in its path extremely quickly. While each attack may only deal one damage, it attacks four times as fast as a usual weapon can.
-    Rayguns will also inflict Irradiated to their targets. They require Uranium Rods as fuel.
 
 
 
@@ -48,30 +32,46 @@
 
 
 
-
-    The Charred Remnants dropped by Brainiacs can be used to make Nuclear Sirens, which produce a loud sound when a nuclear explosion is imminent in the area.
-
+    또한 이 폴리머 판은 세계 어디서든 지정한 장소에 폭발을 일으킬 수 있는 원격 기폭장치의 제작에도 사용됩니다.
 
 
 
 
 
 
-    These remnants can also be used to create a §lNuclear §lFurnace §lComponent§r.
-
-
-
-
-
-    To assemble a Nuclear Furnace, place eight components in a cube. Nuclear Furnaces can smelt any items a blast furnace can, 5 times as fast. Instead of burning coal, they use Uranium Rods as fuel. A Uranium Rod can smelt an entire stack of items - however, it produces some Unrefined Waste as a byproduct.
-    To avoid the Nuclear Furnace entering criticality and exploding violently, this waste must be removed by placing Metal Barrels in the Nuclear Furnace, which will produce Waste Drums.
-    Destroying these Waste Drums may prove to be difficult, as they can explode and leave lingering radiation. Perhaps it is best to just store them for an indefinite period instead...
-
-    The most dangerous use of the Toxic Caves resources is the §lNuclear §lBomb§r.
+    핵분열 코어와 우라늄 연료봉까지 있다면, 광선총의 제작에도 사용할 수 있으며, 이 장거리 무기는 방사능 에너지를 뿜어내 그 궤적 상에 있는 모든 물체를 극도로 빠르게 손상시킵니다. 한번 발사할 때마다 한 마리의 적 만을 공격할 수 있다는 단점이 있지만, 그와 대비되게 다른 무기보다 4배나 빠른 공격 속도를 갖고 있습니다.
+    또한 이 광선총은 맞은 대상을 방사선에 피폭되도록 만들 수 있습니다. 발사를 위한 에너지원으로는 우라늄 연료봉을 필요로 합니다.
 
 
 
 
 
 
-    This powerful weapon will create a truly massive explosion that destroys almost all blocks in a nearby area, and deals thousands of damage and inflicting Irradiated III. This kind of destruction may be the very cause of the Toxic Caves itself...
+
+
+    브레이니악이 드롭하는 검게 탄 잔여물은 핵 사이렌을 만드는 데 사용될 수 있는데, 이 핵 사이렌은 주변 지역에서 핵폭발이 임박했을 때 큰 소리를 내서 경고합니다.
+
+
+
+
+
+
+
+    이 잔여물은 원자력 화로 부품을 만드는 데에도 사용됩니다.
+
+
+
+
+
+    원자력 화로를 만들기 위해서는 부품 8개를 입방체 형태로 배치하여 조합합니다. 원자력 화로는 용광로에서 녹일 수 있는 모든 아이템을 제련할 수 있으며, 그보다 5배 빠른 속도를 갖고 있습니다. 작동시키는 연료로는 석탄 대신 우라늄 연료봉이 사용됩니다. 우라늄 연료봉 1개당 어떠한 아이템이건 최대 64개까지 제련이 가능하며, 연소 결과 정제되지 않은 폐기물을 생산합니다.
+    원자력 화로가 임계점을 넘어 큰 폭발을 일으키는 것을 방지하기 위해서는, 폐기물이 생성될 원자력 화로에 금속 배럴을 설치함으로써 폐기물을 제거해 주어야 합니다.
+    이렇게 폐기물이 쌓인 드럼통은 폭발할 수도 있고, 잔류형 방사선을 남길 수도 있기 때문에 파괴하는 것은 상당히 어려울 수 있습니다. 아마 파괴하는 것보다는, 기약없이 어딘가에 보관해두는 쪽이 최선의 방법일 것입니다...
+
+    이 유독성 동굴에서 나오는 자원의 사용처 중 무엇보다도 위험한 것은 역시 핵폭탄입니다.
+
+
+
+
+
+
+    이 강력한 무기는 엄청난 규모의 폭발을 일으켜 주변의 거의 모든 블록을 파괴하고 수천에 달하는 피해를 입히며, 방사선 피폭3 효과를 주변의 생명체들에게 부여합니다. 어쩌면 유독성 동굴 그 자체가 이러한 파괴의 흔적일 지도 모릅니다...
