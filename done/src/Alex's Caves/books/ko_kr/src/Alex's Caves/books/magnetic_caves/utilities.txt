@@ -53,8 +53,8 @@
 
 
 
-    노터 기즈모는 또한 철 주괴와 함께 네 개의 자석 조명을 만들 수도 있습니다.
-    바운드로이드에게서 얻을 수 있는 고중량 추는 §l자성 §l채석장 §l분쇄기§r를 만드는 데 사용됩니다.
+    노터 기즈모를 철 주괴와 조합해 자석 조명 네 개를 만들 수 있습니다.
+    바운드로이드에게서 얻을 수 있는 고중량 추는 §l마그네틱 §l쿼리 §l스매셔§r를 만드는 데 사용됩니다.
 
 
 
@@ -69,16 +69,16 @@
 
 
 
-     When a Magnetic Quarry is placed, the bounds of the area to be automatically mined out by it can be marked by creating a rectangle with four Magnetic Lights behind the Magnetic Quarry Block. Once lightning is seen darting between all four lights, the Quarry Smasher can be placed inside these bounds to activate the quarry.
-     The quarry will continue to mine out any breakable blocks underneath its designated area, and once smashed these blocks' drops will be sent flying out of the top of the main Magnetic Quarry Block. Once there are no more blocks to mine, the quarry will become dormant.
+     마그네틱 쿼리를 설치하고 그 뒤에 네 개의 자석 조명으로 직사각형을 만들어 자동으로 채굴할 영역을 지정할 수 있습니다. 네 개의 조명 사이에 전기가 흐르는 게 보이기 시작하면, 쿼리 스매셔를 이 영역 안에 놓아 쿼리를 가동할 수 있습니다.
+     쿼리는 지정된 영역에 있는 가능한 모든 블럭을 부숴나갑니다. 이렇게 얻은 아이템들은 중심 마그네틱 쿼리 블럭 위로 날아옵니다. 더 이상 캘 블럭이 없으면 쿼리는 휴면 상태에 들어갑니다.
 
 
 
-     The Magnetron's Heart of Iron has one more remaining use, too - it can be crafted into a §lResistor §lShield§r.
+     마그네트론의 강철 심장은 한 가지 쓸모가 더 있습니다. 바로 §저항의 §방패§r를 만드는 것입니다.
 
 
 
 
 
 
-     The Resistor Shield can be used as an ordinary shield, except that it creates a magnetic pulse while used that damages nearby foes. The polarity of this pulse can be switched by using the shield and sneaking at the same time. If the azure side is used, the pulse will repel afflicted entities, and if the scarlet side is used it will pull them closer.
+     저항의 방패는 평범한 방패처럼 쓸 수도 있지만, 사용하는 동안 주변 적에게 피해를 주는 전자기 펄스 또한 방출합니다. 이 펄스의 극성은 방패를 사용하면서 웅크리는 것으로 전환할 수 있습니다. 하늘빛 면을 쓸 때, 펄스는 피해를 받는 적들을 밀어냅니다. 진홍빛 면을 사용할 때는 그들을 가까이 끌어당깁니다.
