@@ -1,17 +1,17 @@
 
 
-    The §lForlorn §lHollows§r is an underground cavern system engulfed with pure darkness. Almost no light shines here, as the biome is unnaturally shrouded with a thick shadow.
-    The large subterranean mammals native to the Forlorn Hollows have deposited enough Guano over time for it to petrify into a kind of rock, Guanostone. Some of this has also turned into another rock, Coprolith.
+    §버림받은 §l공동§r은 순수한 어둠에 휩싸인 지하 동굴계입니다. 여기선 거의 아무것도 빛나지 않기 때문에 이 생물군계는 두꺼운 그림자에 부자연스럽게 둘러싸여 있습니다.
+    버림받은 공동의 거대한 토종 지하 포유류는 오랜 시간동안 충분한 양의 구아노를 퇴적시켜 일종의 암석인 구아노 돌을 만들어냈습니다. 이들 중 일부는 다른 종류의 암석인 분석으로 변했습니다.
 
 
 
 
 
-    Poking through this terrain is the occasional Peering Coprolith, an ever-present reminder that the many eyes in the dark are always watching. Strangling through the floor and the roof of the Forlorn Hollows are Thornwood Trees, or at least what remains of them.
+    이 지형을 관통하는 응시하는 분석은 수많은 눈들이 어둠 속에서 지켜보고 있다는 것을 항상 상기시켜줍니다. 버림받은 공동의 바닥과 천장을 옭아매고 있는 것은 가시나무거나, 죽은 가시나무입니다.
 
 
 
 
 
-    Although it may seem enticing to light up this gloomy place, care must be taken when placing light sources, as they can attract unwanted attention.
-    All animals that live in the Forlorn Hollows have been twisted by dark influences, but some have been subjected to even darker powers. Even now, some beings there call forth even darker brethren from otherwordly shadows...
+    이 음울한 장소에 불을 밝히고 싶을 수 있지만, 광원을 설치하는 건 조심해야 합니다. 광원이 원치 않은 관심을 끌 지도 모르기 때문입니다.
+    버림받은 공동에 사는 모든 동물들은 어둠의 영향으로 뒤틀려 있지만, 어떤 생물은 더 어두운 힘의 대상이 되었습니다. 지금도 그곳에선 어떤 존재들이 이계의 그림자로부터 더 어두운 동포를 불러내고 있습니다.
