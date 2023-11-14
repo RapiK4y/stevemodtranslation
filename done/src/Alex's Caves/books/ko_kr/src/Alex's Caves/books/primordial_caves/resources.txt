@@ -1,13 +1,13 @@
 
 
-    Limestone makes up a majority of the stone of this cave biome. It can be worked into spears that deal low ranged and melee damage, yet are stackable.
+    석회암은 이 동굴 생물군계의 암석의 대부분을 구성합니다. 낮은 사거리의 원거리 및 근접 피해를 입히며, stackable 창으로 가공할 수 있습니다.
 
 
 
 
 
 
-    Limestone can also be smelted into Smooth Limestone. If Charcoal is used on Smooth Limestone, a Cave Painting can be created.
+    또한 석회암을 제련하여 매끄러운 석회암으로 만들 수도 있습니다. 매끄러운 석회암에 숯을 사용한다면, 동굴 벽화를 만들 수 있습니다.
 
 
 
@@ -16,4 +16,4 @@
 
 
 
-    Of the two species of tree native to this biome, Pewens are the most common. They also produce Pine Nuts, which can be eaten. The Ancient Jungle Tree produces Tree Stars, which are a favorite food of many of this biome's prehistoric denizens...
+    이 생물군계에 서식하는 두 종의 나무 중에선 칠레소나무가 가장 흔합니다. They also produce Pine Nuts, which can be eaten. The Ancient Jungle Tree produces Tree Stars, which are a favorite food of many of this biome's prehistoric denizens...
