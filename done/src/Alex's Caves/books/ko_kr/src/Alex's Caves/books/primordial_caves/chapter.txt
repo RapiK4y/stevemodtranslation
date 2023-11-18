@@ -13,9 +13,9 @@
 
 
 
-    Welcome to the Primordial Caves...
+    원시 동굴에 오신 것을 환영합니다...
 
-    • {Introduction|primordial_caves/general.json}
+    {소개|primordial_caves/general.json}
     • {Resources|primordial_caves/resources.json}
     • Inhabitants
         • {Subterranodon|primordial_caves/subterranodon.json}
