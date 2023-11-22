@@ -9,21 +9,21 @@
 
 
     지저 광신도로부터 얻을 수 있는 황폐의 단검은 공격 피해가 낮아서 약해 보입니다. 하지만 매 타격마다 붉은 유령 단검이 적 위에 나타날 겁니다. 이 붉은 단검은 추가로 지연된 공격을 가합니다.
-    오컬트 보석에는 여러 쓸모가 있습니다. 어떤 생물이든 타격해서 속박할 수 있는 §l빙의의 §l토템§r을 만들 때 쓸 수 있습니다.
+    오컬트 보석에는 여러 쓸모가 있습니다. 어떤 생물이든 타격해서 구속할 수 있는 §l빙의의 §l토템§r을 만들 때 쓸 수 있습니다.
 
 
 
 
-    한 번 속박된 생물은 토템을 누르고 움직이게 할 장소를 바라봄으로써 조종할 수 있습니다. 이러한 흑마법이 작동하기 위해서는 생물이 보이는 곳에 있어야 한다는 것을 알 수 있습니다. The totem only has limited durability, but any other creature the possessed one collides with will trigger it to attack.
-    The Occult Gem can also be made into a §lBeholder§r.
+    한 번 구속된 생물은 토템을 누르고 움직이게 할 장소를 바라봄으로써 조종할 수 있습니다. 이러한 흑마법이 작동하기 위해서는 생물이 보이는 곳에 있어야 한다는 것을 알 수 있습니다. 토템의 내구도는 한정되어 있지만, 빙의된 생물이 다른 생물에 충돌하면 공격하도록 합니다.
+    오컬트 젬은 §l감시자§r를 만들 때도 쓰입니다.
 
 
 
 
 
 
-    Another Occult Gem can be bound to this block, and using it anywhere else in the world will allow one to see through the eye of the beholder. Note that it cannot be used across dimensions.
-    The teeth of the Corrodent can be brewed into a Haste potion, which allows for faster digging. But they can also be crafted into §lBurrowing §lArrows§r.
+    다른 오컬트 젬을 이 블록에 연결하고, 세계의 어디서든 사용함으로써 감시자의 눈읕 통해 볼 수 있습니다. 차원을 넘어서 사용할 수 없다는 것을 주의하십시오.
+    코로던트의 이빨은 채굴 속도를 늘려주는 성급함의 물약을 양조할 때 쓰입니다. 하지만 조합하여 §l굴착 §l화살§r을 만들 수도 있습니다.
 
 
 
