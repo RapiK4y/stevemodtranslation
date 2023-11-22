@@ -1,6 +1,6 @@
 
 
-    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 맞은 생물에는 나방 냄새가 묻습니다. 그리고 주변에 있는 버림받은 공동 몬스터 대부분에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되는데, 설치하면 글룸모스가 광원에서 떨어져 있게 할 수 있습니다.
+    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 여기에 맞은 생물은 나방과 같은 냄새를 풍기게 되어, 주변에 있는 버림받은 공동의 몬스터 대부분에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되는데, 설치하면 글룸모스가 광원에서 떨어져 있게 할 수 있습니다.
 
 
 
@@ -8,13 +8,13 @@
 
 
 
-    지저 광신도로부터 얻을 수 있는 황폐의 단검은 공격 피해가 낮아서 약해 보입니다. 하지만 매 타격마다 붉은 유령 단검이 적 위에 생겨날 것입니다. 이 붉은 단검은 추가로 지연된 공격을 가합니다.
-    오컬트 보석에는 여러 쓸모가 있습니다. It can be turned into a §lTotem §lof §lPossession§r, which can be bound to any creature by hitting it.
+    지저 광신도로부터 얻을 수 있는 황폐의 단검은 공격 피해가 낮아서 약해 보입니다. 하지만 매 타격마다 붉은 유령 단검이 적 위에 나타날 겁니다. 이 붉은 단검은 추가로 지연된 공격을 가합니다.
+    오컬트 보석에는 여러 쓸모가 있습니다. 어떤 생물이든 타격해서 속박할 수 있는 §l빙의의 §l토템§r을 만들 때 쓸 수 있습니다.
 
 
 
 
-    Once bound, the creature can then be controlled by holding down the totem and looking where it should move. Note that the creature should be visible for this dark magic to work. The totem only has limited durability, but any other creature the possessed one collides with will trigger it to attack.
+    한 번 속박된 생물은 토템을 누르고 움직이게 할 장소를 바라봄으로써 조종할 수 있습니다. 이러한 흑마법이 작동하기 위해서는 생물이 보이는 곳에 있어야 한다는 것을 알 수 있습니다. The totem only has limited durability, but any other creature the possessed one collides with will trigger it to attack.
     The Occult Gem can also be made into a §lBeholder§r.
 
 
