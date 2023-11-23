@@ -14,6 +14,6 @@
     • 4.0 🗡
 
     주시자는 버림받은 공동에서 발견할 수 있는 몬스터로, 글룸모스의 많은 희생의 결과로 나타납니다.
-    주시자는 먼 거리에서 모험가를 찾고 그들을 스토킹하기 시작할 것입니다. Occasionally, they make their presense known by possessing their target, and forcing their target to see the world from the Watcher's perspective. During this possession the target cannot move, and afterwards the Watcher's moth face appears shortly in their vision.
-    When a Watcher is close enough, it will quickly lash out with its sharp claws, before transforming into an ethereal flying form. It will then continouslly posess its target whilst lashing at it, making it a difficult fight.
-    If a Watcher is slain, it will drop some Dark Tatters along with an occasional §lOccult §lGem§r.
+    주시자는 먼 거리에서 모험가를 찾고 그들을 스토킹하기 시작할 것입니다. 때때로, 그들은 자신들의 목표물을 사로잡고, 자신들의 관점에서 세상을 바라보도록 만들어 버림으로써 그들의 존재감을 알립니다. 사로잡힌 동안 목표물은 움직일 수 없으며, 이후 주시자의 나방 같은 얼굴이 한순간 시야에 나타납니다.
+    주시자와의 거리가 충분히 좁혀지면, 그것은 비행 형태로 우화하기 전에 빠르고 맹렬하게 공격할 것입니다. 이 모든 과정은 사로잡혀 움직임이 속박된 상태로 이루어지기 때문에, 전투는 무척이나 어렵습니다.
+    주시자는 처치될 시, 어둠의 넝마 조각을 떨어뜨리며, 이따금 §l오컬트 §l보석도§r 함께 떨어뜨린다.
