@@ -1,51 +1,24 @@
 
 
-    §lHIDDEN §lBENEATH §lTHE §lSURFACE §lOF §lTHE §lOVERWORLD §rlies many unique cave biomes, all rare in nature.
+    §l오버월드의 §l표면 §l아래에 §l숨겨진 §l것들§r은 자연에서 찾아보기 힘든 수많은 고유한 동굴 생물군계를 낳습니다.
 
-    These cave biomes are sought out not only for their novelty, but also due to the various powerful and legendary contents of each.
-    Of these biomes, five are known to exist:
+    이 동굴 생물군계들은 새로울 뿐만 아니라 각각의 다양한 강력하고 전설적인 내용물을 가졌기 때문에 사람들은 이것들을 찾아다닙니다.
+    이 생물군계 중 다섯의 존재가 알려져 있습니다:
 
-    • {Magnetic Caves|magnetic_caves/chapter.json}
-    • {Primordial Caves|primordial_caves/chapter.json}
-    • {Toxic Caves|toxic_caves/chapter.json}
-    • {Abyssal Chasm|abyssal_chasm/chapter.json}
-    • {Forlorn Hollows|forlorn_hollows/chapter.json}
-
-
-
-    To uncover more about each of these caves, seek out an §lUnderground §lCabin§r...
-    Underground Cabins can be occasionally found in caves throughout the Overworld.
-
-    Cartographers can occasionally sell maps to them, which can also be found in Mineshaft Chests.
-
-    Asides from ordinary loot, Underground Cabins contain §lCave §lTablets§r.
+    • {자성 동굴|magnetic_caves/chapter.json}
+    • {원시 동굴|primordial_caves/chapter.json}
+    • {유독성 동굴|toxic_caves/chapter.json}
+    • {심연의 틈새|abyssal_chasm/chapter.json}
+    • {버림받은 공동|forlorn_hollows/chapter.json}
 
 
 
+    이 동굴 각자에 대해 더 자세히 알기 위해서는 §l지하 §l오두막§을 찾아 나서세요.
+    지하 오두막은 가끔 오버월드 곳곳의 동굴에서 발견됩니다.
 
+    지도 제작자는 이따금 지하 오두막의 지도를 팔기도 합니다. 이 지도는 폐광의 상자에서도 찾을 수 있습니다.
 
-
-
-    Cave Tablets can be placed along with a paper in a §lSpelunkery §lTable§r, another unique find in a cabin.
-
-    Then, one can begin translating the Cave Tablet...
-    When both the tablet and paper are on the table, various runes on the tablet will be visible.
-
-    Interacting with any rune will reveal it. A revealed word's translation can be seen by moving the lens over the word. Only five attempts can be made before the tablet is destroyed.
-
-
-
-
-    Using the knowledge of which runes represent which letters can help find the targeted word. If this process is completed three times, the tablet and paper will become a §lCave §lCodex§r.
-
-    These codices have multiple uses. They can be used to gain more knowledge about the specific cave biome which they relate to.
-
-
-
-
-
-
-    Additionally, extra codices can be crafted with paper to craft a  §lCave §lMap§r.
+    지하 오두막에는 일반적인 전리품 외에도 §l동굴 §l석판§r이 들어 있습니다.
 
 
 
@@ -53,5 +26,32 @@
 
 
 
+    동굴 석판은 오두막에서 얻을 수 있는 다른 고유한 물건인 §l동굴 §l탐험 §l작업대§r에 종이와 함께 놓을 수 있습니다.
 
-    Cave Maps can point to the nearest cave biome detailed by the codex. The process of creating a Cave Codex seems to imdue this map with an uncanny range and responsiveness.
+    그러면, 동굴 석판을 해석하기 시작할 수 있습니다.
+    종이와 석판 둘 모두가 동굴 탐험 작업대에 놓여 있으면, 석판에 쓰여 있는 다양한 룬들을 볼 수 있습니다.
+
+    아무 룬을 눌러 그 룬을 드러낼 수 있습니다. 드러난 단어는 렌즈를 위에 올려 해석을 확인할 수 있습니다. 해석은 석판이 파괴되기 전에 오직 다섯 번만 시도할 수 있습니다.
+
+
+
+
+    어떤 룬이 어떤 글자를 표현하는지에 대한 지식은 목표 단어를 찾는 데 도움이 됩니다. 이 과정을 세 번 마치면 석판과 종이는 §l동굴 §l두루마리§r가 됩니다.
+
+    이 두루마리에는 여러 쓸모가 있습니다. 이것들은 관련된 특정 동물 생물군계에 대한 지식을 더 얻는 데 쓰일 수 있습니다.
+
+
+
+
+
+
+    더하여, 여분의 두루마리는 종이와 함께 조합해 §l동굴 §l지도§r를 만들 수 있습니다.
+
+
+
+
+
+
+
+
+    동굴 지도는 두루마리에 기록된 가장 가까운 동굴 생물군계를 가리킵니다. 동굴 두루마리를 만드는 과정은 이 지도에 초자연적인 범위와 민감도를 부여하는 것 같습니다.

@@ -13,6 +13,6 @@
     • 20.0 ♥
     • 15.0 🗡
 
-    Mine Guardians are often difficult to see in the Abyssal Chasm, as they are always chained to an anchor on the seafloor around Abyssal Ruins. These mechanical beings were left there long ago, likely to keep deep ones away.
-    Every so often, Mine Guardians will open their single eye to scan for targets - including any nearby adventurers. If a target is detected in close range, the Mine Guardian will begin to float towards the detected target, then suddenly explode once in range.
-    If slain before this happens, Mine Guardians can drop a §lDepth §lCharge§r, which can be thrown to create a small explosion that can destroy blocks, even underwater.
+    기뢰 가디언은 항상 심연 유적의 닻에 묶여 있기에 웬만해선 찾아보기 힘듭니다. 이 기계 장치로 된 존재들은 오래 전에 딥 원들이 가까이 오지 못하게 하기 위해 남겨진 것 같습니다.
+    종종 기뢰 가디언은 하나뿐인 눈을 떠 주변 모험가들을 포함한 목표를 살핍니다. 가까이에서 목표가 감지되면 기뢰 가디언은 감지된 목표를 향해 부상하여 사거리에 들어온 순간 즉시 폭발합니다.
+    만약 그 전에 기뢰 가디언을 사냥했다면, 던져서 작은 폭발을 일으켜 물 속에서도 블럭을 파괴할 수 있는 아이템인 §l폭뢰§r를 얻을 수 있습니다.

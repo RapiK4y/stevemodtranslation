@@ -11,10 +11,10 @@
 
 
     • 250.0 ♥
-    • 6.0 🗡 (Base)
+    • 6.0 🗡 (기초)
 
-    Forsaken are by far the most powerful monster to be found in the Forlorn Hollows, although they are only created when Underzealots perform a ritual on a Vesper. They are hostile towards almost anything that is not of the Forlorn Hollows, and will attempt to eat as many Gloomoths as possible.
-    Imbued with some of the most potent dark magic, Forsaken have a vast array of attacks they use to quickly dispatch prey. This includes using their large upper arms to smash the ground beneath them, slash at prey or even lift and bring the prey to the mouth for a killer bite.
-    Forsaken can also emit a long range sonic blast with incredible reach, and a short range sonic blast that damages all hostiles in close range. These sonic blasts deal extra damage towards monsters that utilize sound, such as the Warden.
-    When brought down to low health, the Forsaken's shadowy magical aspects will become readily apparent as it becomes pitch black, except for its red eyes. Donning this shadow state, the Forsaken will rapidly heal as long as it is out of direct light.
-    If slain, the Forsaken will drop multitudes of §lPure §lDarkness§r...
+    포세이큰은 버림받은 공동에서 발견되는 가장 강력한 몬스터지만, 이 몬스터는 지저 광신도들이 베스퍼를 희생해 의식을 거행할 때만 생성됩니다. 그들은 버림받은 공동에 속하지 않은 거의 모든 것에 적대적이고, 가능한 많은 글룸모스를 먹으려 들 것입니다.
+    가장 강력한 어둠의 마술이 깃든 포세이큰은 먹잇감을 신속하게 처치하기 위해 다양한 공격 방식을 지니고 있습니다. 그 공격 방식들은 커다란 윗팔을 사용하여 아래의 땅을 분쇄하거나, 먹이를 난도질 하거나, 심지어 먹이를 집어들고 입 안에 넣어 물어뜯는 것을 포함합니다.
+    포세이큰은 또한 믿을 수 없을 정도의 사거리를 가진 장거리 음파 폭발과 근거리에 있는 모든 적들에게 피해를 입히는 단거리 음파 폭발을 내뿜을 수 있습니다. 이러한 음파 폭발은 워든과 같이 소리를 이용하는 몬스터에게 추가 피해를 줍니다.
+    체력이 낮아지면, 붉은 눈을 제외한 온 몸이 칠흑같이 어두워지며 포세이큰의 어둠의 마법적인 측면이 서슴없이 드러날타날 것입니다. 이 그림자 상태를 유지하는 포세이크는 직사광선을 받지 않는 한 빠르게 치유될 것입니다.
+    죽으면 포세이큰은 §l순수한 §l어둠§r을 대량으로 떨어트립니다...

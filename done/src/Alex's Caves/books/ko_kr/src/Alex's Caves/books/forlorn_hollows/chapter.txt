@@ -13,15 +13,15 @@
 
 
 
-    Welcome to the Forlorn Hollows...
+    버림받은 공동에 오신 것을 환영합니다...
 
-    • {Introduction|forlorn_hollows/general.json}
-    • {Resources|forlorn_hollows/resources.json}
-    • Inhabitants
-        • {Gloomoth|forlorn_hollows/gloomoth.json}
-        • {Underzealot|forlorn_hollows/underzealot.json}
-        • {Watcher|forlorn_hollows/watcher.json}
-        • {Corrodent|forlorn_hollows/corrodent.json}
-        • {Vesper|forlorn_hollows/vesper.json}
-        • {Forsaken|forlorn_hollows/forsaken.json}
-    • {Utilities|forlorn_hollows/utilities.json}
+    • {소개|forlorn_hollows/general.json}
+    • {자원|forlorn_hollows/resources.json}
+    • 서식 생명체
+        • {글룸모스|forlorn_hollows/gloomoth.json}
+        • {지저 광신도|forlorn_hollows/underzealot.json}
+        • {주시자|forlorn_hollows/watcher.json}
+        • {코로던트|forlorn_hollows/corrodent.json}
+        • {베스퍼|forlorn_hollows/vesper.json}
+        • {포세이큰|forlorn_hollows/forsaken.json}
+    • {유용한 것|forlorn_hollows/utilities.json}

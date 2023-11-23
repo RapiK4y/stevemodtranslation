@@ -13,8 +13,8 @@
     • 400.0 ♥
     • 14.0 🗡
 
-    The Hullbreaker is a colossal fish over fifteen blocks long. Being a predator adapted to hunt exclusively in dark waters, it hunts by seeking out any glowing entity.
-    It quickly makes a kill by using its massive teeth to bite prey or its head as a battering ram to smash them. The easiest way to avoid the wandering eyes of a Hullbreaker is to stop emitting light, and to remove any glowing effect or entity.
-    Hullbreakers always investigate possible prey items before attacking, circling them multiple times whilst its many body lights begin to flash rapidly.
-    In the almost unheard of chance that one is defeated in combat, it will spew out what it has eaten before dying. This includes common items like ink sacs, but can also be remains of §lSubmarines§r such as the §lEnigmatic §lEngine§r.
-    If a hullbreaker is detected whilst one is in a submarine, caution must be taken to immediately turn off any and all floodlights until the beast passes...
+    선체파괴자는 열다섯 블럭 길이를 넘는 거대한 물고기입니다. 특히 어두운 물 속에서 사냥하는 데 적응한 포식자인 선체파괴자는 빛나는 존재라면 뭐든지 찾아 사냥합니다.
+    선체파괴자는 거대한 이빨로 묻어뜯거나 머리를 공성추처럼 사용해 들이받아 순식간에 먹이를 죽여버립니다. 선체파괴자의 두리번거리는 눈동자를 피하는 가장 쉬운 방법은, 빛을 내는 걸 멈추고 빛나는 효과나 존재를 전부 없애는 것입니다.
+    선체파괴자는 공격하기 전에 항상 먹잇감이 될 만한 것들늘 조사하고, 그 주변을 여러 번 돌며 몸통의 수많은 불빛을 깜빡입니다.
+    선체 파괴자가 싸움에서 패배했다는 이야기는 거의 들어본 바가 없지만, 그렇게 된다면 죽기 전에 먹었던 걸 토해낼 것입니다. 토해내는 아이템은 먹물 주머니와 같은 평범한 아이템이지만, §l수수께끼의 §l엔진§r같은 §l잠수정§r의 잔해일 수도 있습니다.
+    잠수정에 있는 동안 선체파괴자를 발견했다면, 그 녀석이 지나갈 때까지 투광등을 즉시 전부 꺼버리도록 주의해야 합니다.

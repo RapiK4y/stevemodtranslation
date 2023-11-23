@@ -13,14 +13,14 @@
 
 
 
-    Welcome to the Toxic Caves...
+    유독성 동굴에 오신 것을 환영합니다...
 
-    • {Introduction|toxic_caves/general.json}
-    • {Resources|toxic_caves/resources.json}
-    • Inhabitants
-        • {Nucleeper|toxic_caves/nucleeper.json}
-        • {Radgill|toxic_caves/radgill.json}
-        • {Brainiac|toxic_caves/brainiac.json}
-        • {Gammaroach|toxic_caves/gammaroach.json}
-        • {Raycat|toxic_caves/raycat.json}
-    • {Utilities|toxic_caves/utilities.json}
+    • {소개|toxic_caves/general.json}
+    • {자원|toxic_caves/resources.json}
+    서식 생명체
+        • {뉴클리퍼|toxic_caves/nucleeper.json}
+        • {라드길|toxic_caves/radgill.json}
+        • {브레이니악|toxic_caves/brainiac.json}
+        • {감마로치|toxic_caves/gammaroach.json}
+        • {레이캣|toxic_caves/raycat.json}
+    • {유용한 것|toxic_caves/utilities.json}

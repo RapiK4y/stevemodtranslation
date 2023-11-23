@@ -1,6 +1,6 @@
 
 
-    From Neodymium Ingots, both Azure and Scarlet Magnets can be crafted.
+    네오디뮴 주괴를 이용해 진홍빛 자석과 하늘빛 자석을 만들 수 있습니다.
 
 
 
@@ -8,11 +8,11 @@
 
 
 
-    These magnets are very powerful, as azure ones can move magnetic blocks away from them, and scarlet ones can attract magnetic blocks to them.
-    A magnet can move up to 27 adjacent blocks at a time, provided they have enough clearance and are all either metallic or connected to metallic blocks by a slime block.
-    These magnets have limited range of usually only a few blocks. This can be incremented by one by using the respective neodymium ingot on the block, and decreased by using the opposite ingot.
+    이 자석들은 아주 강력한데, 하늘빛 자석은 자성체 블럭을 밀어낼 수 있는 반면 진홍빛 자석은 자성체 블럭을 끌어당길 수 있습니다.
+    충분한 공간이 있고, 블럭들이 모두 자성체이거나 자성체 블럭에 슬라임 블럭을 통해 이어져 있다면 하나의 자석은 한 번에 최대 27개의 인접한 블럭들을 움직일 수 있습니다.
+    이 자석들은 대개 몇 블럭 정도의 제한된 범위를 가집니다. 이 범위는 블럭에 대응되는 네오디뮴 주괴를 사용해서 하나씩 늘릴 수 있고, 반대되는 주괴를 사용해서 하나씩 줄일 수 있습니다.
 
-    The Telecore, obtained from a Teletor, can be used to create new Tesla Bulbs by combining it with Energized Galena.
+    텔레토어에게 얻을 수 있는 텔레코어는 충전된 방연석과 합쳐서 새로운 테슬라 전구를 만드는 데 쓰입니다.
 
 
 
@@ -21,15 +21,15 @@
 
 
 
-    It can also be used to create a very powerful tool known as the §lGalena §lGauntlet§r.
+    이것은 §l방연석 §l건틀릿§r으로 알려진 아주 강력한 도구를 만들 때도 쓰입니다.
 
 
 
 
 
 
-    The Galena Guantlet can be used in the offhand while a magnetic tool, such as one made of iron or netherite, is held in the main hand. When used, it will launch the tool forwards, up to around 20 blocks in distance. From here, the tool will damage any entity it is rammed into, or begin to mine any block if it is the matching kind for the tool. The guantlet will slowly lose durability during use, but can be repaired with a Telecore.
-    Asides from being used to make the Galena Guantlet, Ferrouslimeballs can be used to make Metal Swarf, which can then in turn be smelted into Scrap Metal. It can also be used to brew a potion of Magnetizing - which renders the inflicted with the ability to be pushed or pulled by magnetic forces without wearing metal armor.
+    방연석 건틀릿은 철이나 네더라이트 같은 자성체 도구를 주로 사용하는 손에 들고, 건틀릿을 반대쪽 손에 들어 사용할 수 있습니다. 건틀릿을 사용하면 역 20블럭 거리까지 앞으로 도구를 쏘아냅니다. 여기서 도구는 충돌하는 모든 존재에게 피해를 주거나, 도구의 종류에 적합한 모든 블럭들을 캐기 시작합니다. 이 건틀렛은 사용하는 동안 천천히 내구도를 잃지만, 텔레코어를 사용해 수리할 수 있습니다.
+    방연석 건틀릿을 만들 때 사용하는 것 외에도, 철질 슬라임볼은 제련해서 고철로 만들 수 있는 금속 부스러기를 만들 때도 쓰입니다. 철질 슬라임볼은 이외에도 자화의 물약을 양조하는 데도 쓰입니다. 이 물약을 마시면 금속 갑옷을 입지 않아도 자기력에 의해 밀리거나 당겨지게 됩니다.
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-    Notor Gizmos can be combined with a Telecore and an Azure Neodymium Ingot to make a §lHolocoder§r. This Holocoder can be bound to any entity by using it on them. When placed in a §lHologram §lProjector§r, a Hologram of the bound entity will be displayed. If the Holocoder is unbound, then the user of the Holocoder will be shown instead.
+    노터 기즈모는 텔레코어 및 하늘색 네오디뮴 주괴와 결합해 §l홀로코더§r를 만들 수 있습니다. 홀로코더는 아무 생명체에 사용해 그 생명체를 등록할 수 있습니다. 만약 이것을 §l홀로그램 §l영사기§r에 올리면, 등록된 생명체가 표시될 것입니다. 만약 홀로코더가 등록되어 있지 않다면, 홀로코더를 사용한 사람이 대신 보여질 것입니다.
 
 
 
@@ -53,8 +53,8 @@
 
 
 
-    Notor Gizmos can also be combined with an Iron Ingot to create four Magnetic Lights.
-    The Heavyweight, obtained from Boundroids, can be used to create a §lMagnetic §lQuarry §lSmasher§r.
+    노터 기즈모를 철 주괴와 조합해 자석 조명 네 개를 만들 수 있습니다.
+    바운드로이드에게서 얻을 수 있는 고중량 추는 §l마그네틱 §l쿼리 §l스매셔§r를 만드는 데 사용됩니다.
 
 
 
@@ -62,23 +62,23 @@
 
 
 
-     This device is only useful when combined with four Magnetic Lights and the §lMagnetic §lQuarry§r itself.
+     이 기기는 네 개의 자석 조명과 §l자성 §l채굴기§r와 함께 사용해야 합니다.
 
 
 
 
 
 
-     When a Magnetic Quarry is placed, the bounds of the area to be automatically mined out by it can be marked by creating a rectangle with four Magnetic Lights behind the Magnetic Quarry Block. Once lightning is seen darting between all four lights, the Quarry Smasher can be placed inside these bounds to activate the quarry.
-     The quarry will continue to mine out any breakable blocks underneath its designated area, and once smashed these blocks' drops will be sent flying out of the top of the main Magnetic Quarry Block. Once there are no more blocks to mine, the quarry will become dormant.
+     자기력 채굴기를 설치하면, 자기력 채굴기 블록 뒤에 네 개의 자석 조명으로 직사각형을 만들어 자동으로 채굴할 영역의 경계를 지정할 수 있습니다. 네 개의 조명 사이에 전기가 흐르는 게 보이기 시작하면, 채굴기 분쇄기를 이 영역 안에 놓아 채굴기를 가동할 수 있습니다.
+     채굴기는 지정된 영역에 있는 가능한 모든 블럭을 부숴나갑니다. 이렇게 얻은 아이템들은 메인 자기력 채굴기 블럭 위로 날아옵니다. 더 이상 캘 블럭이 없으면 채굴기는 휴면 상태에 들어갑니다.
 
 
 
-     The Magnetron's Heart of Iron has one more remaining use, too - it can be crafted into a §lResistor §lShield§r.
+     마그네트론의 강철 심장은 한 가지 쓸모가 더 있습니다. 바로 §저항의 §방패§r를 만드는 것입니다.
 
 
 
 
 
 
-     The Resistor Shield can be used as an ordinary shield, except that it creates a magnetic pulse while used that damages nearby foes. The polarity of this pulse can be switched by using the shield and sneaking at the same time. If the azure side is used, the pulse will repel afflicted entities, and if the scarlet side is used it will pull them closer.
+     저항의 방패는 평범한 방패처럼 쓸 수도 있지만, 사용하는 동안 주변 적에게 피해를 주는 전자기 펄스 또한 방출합니다. 이 방패를 사용함과 동시에 웅크리는 것으로 펄스의 극성을 전환할 수 있습니다. 하늘빛인 쪽을 쓸 때, 펄스는 피해를 받는 적들을 밀어냅니다. 진홍빛인 쪽을 사용할 때는 그들을 가까이 끌어당깁니다.

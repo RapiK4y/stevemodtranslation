@@ -1,35 +1,35 @@
 
 
-    Galena is a type of stone with a significant iron composition. It can be crafted into numerous kinds of bricks, pillars, and other blocks, and Packed Galena.
+    방연석은 철 성분이 많은 돌의 한 종류입니다. 방연석으로 수많은 종류의 벽돌, 기둥, 그리고 다른 여러 블럭을 만들 수 있으며, 압축된 방연석을 만들 때도 쓰입니다.
 
 
 
 
 
 
-    Packed Galena can then be smelted to produce a single nugget of iron.
+    압축된 방연석을 제련해 철 조각 하나를 만들 수 있습니다.
 
 
 
 
 
-    Although this requires a great deal of Galena to create a single ingot of iron, it exists in such vast quantities in this cave biome that make it a good alternative to seeking out iron ore.
-    Far more valuable of a resource than Galena is Neodymium though. The raw form of both Scarlet and Azure Neodymium can be obtained by breaking both pillars and nodes that make up the giant crystals of this biome.
-    These can be crafted back into the nodes or used to make Neodymium Ingots.
-
-
-
-
-
-
-    Neodymium Ingots have many uses. The Azure Neodymium Ingot can be used to create Magnetic Levitation Rails, which lift any minecart that rolls over them into the air - and moves it faster than any normal rail.
+    정말 많은 양의 방연석이 있어야 철 주괴 하나를 만들 수 있지만, 이 동굴 생물군계에는 방연석이 정말 많기 때문에 이 방법은 철 광석을 찾아나서는 것의 좋은 대안이 됩니다.
+    하지만 네오디뮴은 방연석보다 훨씬 더 가치 있는 자원입니다. 가공하지 않은 형태의 진홍빛과 하늘빛 네오디뮴은 이 생물군계를 구성하는 거대한 크리스탈의 기둥이나 노드를 부숴서 얻을 수 있습니다.
+    이것들을 다시 노드로 조합할 수 있고, 네오디뮴 주괴를 만드는 데도 사용합니다.
 
 
 
 
 
 
-    The Scarlet Neodymium Ingot crafted into create Seeking Arrows, which will curve towards any nearby entity they fly past.
+    네오디뮴 주괴는 쓸모가 많습니다. 하늘빛 네오디뮴 주과는 자기 부상 레일을 만들 때 쓰입니다. 이것은 마인카트를 공기 중에 띄워 일반적인 어떤 레일보다 빠르게 움직이게 합니다.
+
+
+
+
+
+
+    진홍빛 네오디뮴 주괴는 추적 화살을 만들 때 쓰입니다. 이 화살은 날아가는 곳 주변의 물체를 향해 휘어질 것입니다.
 
 
 
@@ -37,4 +37,4 @@
 
 
 
-    Neodymium has other powerful uses, but most of these require the remains of powerful beings...
+    네오디뮴은 다른 강력한 쓸모가 많지만, 대부분 강력한 존재들의 유해를 필요로 합니다...

@@ -1,6 +1,6 @@
 
 
-    Occasionally when breaking amber, an Amber Curiosity can be discovered. These can be used to craft §lAmber §lMonoliths§r, which can also be seen dotting the Primordial Caves. Amber Monoliths can repopulate the nearby area of animals over the course of a few days. The type of animal spawned depends on any nearby animals and the natural rate of occurance of that animal. It is possible that the Amber Monoliths are the reason the Primordial Caves have stayed the same for eons.
+    이따금씩 호박을 깨트릴 때, 진기한 호박을 발견할 수 있습니다. 이것들은 원시 동굴 곳곳에서도 볼 수 있는 §l호박 §l비석§r을 만드는 데 사용할 수 있습니다. Amber Monoliths can repopulate the nearby area of animals over the course of a few days. The type of animal spawned depends on any nearby animals and the natural rate of occurance of that animal. It is possible that the Amber Monoliths are the reason the Primordial Caves have stayed the same for eons.
 
 
 

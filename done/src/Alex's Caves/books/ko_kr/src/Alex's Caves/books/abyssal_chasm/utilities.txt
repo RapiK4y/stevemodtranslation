@@ -1,14 +1,14 @@
 
 
-    Although individually most of the fish that swim these deep seas are not very palettable, they can be combined into a Deep Sea Sushi Roll.
+    이런 심해를 헤엄치는 대부분의 물고기는 별로 맛있지 않지만, 모아서 심해 스시 롤로 만들 수 있습니다.
 
 
 
 
 
 
-    The Marine Snow produced by Sea Pigs can be used on dead corals to bring them back to life. It can also grow sponges and other kinds of sea life.
-    Bioluminessence, dropped by Gossamer Worms, can be brewed into a potion of glowing. It can also be crafted into a §lFloater§r, a device that allows one to reach the surface of the sea in mere seconds.
+    바다돼지가 만드는 마린 스노는 죽은 산호에 사용해 살려낼 수 있습니다. 그리고 마린 스노는 스폰지나 다른 바다 생물을 키울 수 있습니다.
+    고사머 벌레에게서 얻을 수 있는 생물발광질은 양조하여 발광 포션을 만들 때 쓰입니다. 단 몇 초 안에 수면에 닿을 수 있게 해주는 도구인 §l부유기§r를 만들 수 있습니다.
 
 
 
@@ -18,31 +18,31 @@
 
 
 
-    Or it can be turned into some §lBioluminescent §lTorches§r that glow even underwater.
+    아니면 물 속에서도 빛나는 §l생물발광 §l횃불§r을 만들 때도 쓰입니다.
 
 
 
 
 
 
-    Any Drowned that appear in the Abyssal Chasm may be wearing parts of the §lDiving §lSuit§r Armor. These can also appear in chests in Abyssal Ruins.
+    심연의 틈새에서 나오는 모든 드라운드는 §l잠수복§r의 일부 부위를 입고 있곤 합니다. 잠수복은 심연 유적의 상자에서도 얻을 수 있습니다.
 
 
-    The Diving Helmet grants forty seconds of water breathing when worn out of water, vastly extending the period in which explorers can stay in the Abyssal Chasm. The chestplate has additional toughness, and the leggings grant extra swim speed. The boots allow faster speed on Muck blocks.
-    The Abyssal Ruins can also occasionally hold a §lSubmarine§r. Submarines in disrepair can be fixed by using copper ingots on them, and any oxidization can be removed with an axe. Once repaired, a Submarine can be piloted and even sports floodlights to improve visibility of the depths. When piloted, Submarines provide a constant amount of air, making them one of the safest ways to get around in the Abyssal Chasm.
-    To create an entirely new submarine will require multiple copper blocks, an Enigmatic Engine and a few Depth Glass blocks. Simply surround the Enigmatic Engine with a copper cube, and make sure to use six depth glass to mark the front of the vehicle.
+    잠수복 헬멧은 물 밖에서 착용하면 40초의 수중 호흡을 부여해 탐험가들이 심연의 틈새에서 있을 수 있는 시간을 크게 늘려 줍니다. 흉갑을 입으면 추가적인 방어 강도를 얻으며, 레깅스를 신으면 더 빠르게 헤엄칠 수 있습니다. 부츠를 신으면 진창 블럭에서 더 빠르게 움직일 수 있습니다.
+    심연 유적에는 §l잠수함§r이 있기도 합니다. 망가진 잠수함은 구리 주괴를 사용해서 수리할 수 있고, 산화된 부분은 도끼를 이용해 제거할 수 있습니다. 수리한 잠수함은 조종할 수 있고, 깊은 곳을 잘 보이게 하는 투광등을 조사할 수도 있습니다. 잠수함을 조종하는 동안에는 일정한 양의 산소가 공급되는데, 이것은 심연의 틈새를 돌아다니는 가장 안전한 방법 중 하나입니다.
+    완전히 새로운 잠수함을 만드는 데는 여러 구리 블럭, 수수께끼의 엔진, 그리고 약간의 심해용 유리 블럭이 필요합니다. 수수께끼의 엔진을 구리 블럭으로 감싸고, 잠수함의 앞부분을 여섯 개의 심해용 유리를 사용해 표시하십시오.
 
-    Abyssal ruins also make use of §lDrain§r blocks, which can be crafted with Depth Charges.
-
-
-
+    심연 유적은 폭뢰를 이용해 만들어지는 §l배수구§r 블럭도 이용합니다.
 
 
 
-    Provided there is liquid above and empty space below when activated with redstone, this block will move all the fluids above it below it, making it convenient for aquatic construction.
-    Deep Ones can exchange a large variety of items - some unique to only them. A common one is the §lInk §lBomb§r and §lGlow §lInk §lBomb§r, which create a pool of ink when thrown that can inflict blindness and glowing, respectively. The glowing variant can be useful to gain the attention of a nearby Hullbreaker.
-    The Gazing Pearl can be a helpful novelty to keep track of the opinion held by the Deep Ones. It changes color depending on their mood towards the outsider gazing upon it.
-    The Orthrolance is a melee weapon that can be held down to gain a powerful charge attack. This charge will leave a trail of waves behind it, which deal additional damage.
-    The Magic Conch can be blown in order to summon multiple deep ones to aid in combat, anywhere in the world. They will only linger for a short period of time, so it is best to save this for large battles.
-    The Sea Staff is a weapon that fires magical bolts of water rapidly, which can arc towards nearby monsters. 
+
+
+
+    배수구 블럭 위에 액체가 있고 아래에 빈 공간이 있으면, 레드스톤 신호를 받았을 때 위에 있는 모든 액체를 아래로 옮깁니다. 이것은 수중 건축물을 만들 때 편리합니다.
+    딥 원은 다양한 종류의 아이템을 교환해 줍니다. 어떤 것들은 그들만의 고유한 것입니다. 평범한 것은 §l먹물 §l폭탄§r과§l빛나는 §l먹물 §l폭탄§r이 있습니다. 던지면 각각 실명이나 발광을 부여하는 잉크 웅덩이를 만듭니다. 빛나는 먹물 폭탄은 선체파괴자의 주의를 끄는 데에도 유용합니다.
+    응시하는 진주는 신기하게도 딥 원의 평판을 확인하는 데 도움을 줍니다. 이 진주는 바라보는 외부인에 대한 딥 원들의 기분에 따라 색을 바꿉니다.
+    뿔조개 창은 누르고 있으면 강력한 돌진 공격을 사용할 수 있는 근접 무기입니다. 이 돌진은 추가 피해를 주는 파도의 흔적을 뒤에 남깁니다.
+    마법의 소라고동은 불기만 하면 전투를 도와주는 딥 원들을 어디서든 소환할 수 있는 아이템입니다. 소환된 딥 원들은 짧은 시간 동안만 유지되니, 큰 전투를 위해 마법의 소라고동을 아끼는 것이 좋습니다.
+    바다의 지팡이는 호를 그리며 주변의 몬스터에게 날아가는 마법의 물화살을 빠르게 발사하는 무기입니다. 
 

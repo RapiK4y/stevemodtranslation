@@ -13,15 +13,15 @@
 
 
 
-    Welcome to the Primordial Caves...
+    원시 동굴에 오신 것을 환영합니다...
 
-    • {Introduction|primordial_caves/general.json}
-    • {Resources|primordial_caves/resources.json}
-    • Inhabitants
-        • {Subterranodon|primordial_caves/subterranodon.json}
-        • {Vallumraptor|primordial_caves/vallumraptor.json}
-        • {Grottoceratops|primordial_caves/grottoceratops.json}
-        • {Trilocaris|primordial_caves/trilocaris.json}
-        • {Tremorsaurus|primordial_caves/tremorsaurus.json}
-        • {Relicheirus|primordial_caves/relicheirus.json}
-    • {Utilities|primordial_caves/utilities.json}
+    {소개|primordial_caves/general.json}
+    • {자원|primordial_caves/resources.json}
+    서식 생명체
+        • {섭테라노돈|primordial_caves/subterranodon.json}
+        • {밸럼랩터|primordial_caves/vallumraptor.json}
+        • {그로토케라톱스|primordial_caves/grottoceratops.json}
+        • {트릴로카리스|primordial_caves/trilocaris.json}
+        • {트레모사우루스|primordial_caves/tremorsaurus.json}
+        • {렐리케이루스|primordial_caves/relicheirus.json}
+    • {유용한 것|primordial_caves/utilities.json}

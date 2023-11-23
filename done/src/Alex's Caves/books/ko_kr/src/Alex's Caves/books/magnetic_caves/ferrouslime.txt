@@ -10,9 +10,9 @@
 
 
 
-    • 10.0 ♥ (per head)
-    • 2.0 🗡 (per head)
+    • 10.0 ♥ (머리마다)
+    • 2.0 🗡 (머리마다)
 
-    What first appears to be an innocuous slime in the Magnetic Caves is actually a Ferrouslime - a variant of slime that has adapted to this biome's natural ferromagnetic properties. Due to this, the Ferrouslime is able to levitate to get around - although it can only move in straight lines on the cardinal axis.
-    Unlike other slimes that simply split when slain, the Ferrouslime is able to merge with outer Ferrouslimes in order to grow in size in strength. The more heads inside the Ferrouslime, the harder it will be to defeat.
-    Once slain, Ferrouslime will split into smaller versions of themselves. They will also drop a §lFerrouslimeball§r at the smallest size...
+    얼핏 자성 동굴의 무해한 슬라임처럼 보이는 것은 실은 이 생물군계의 자연적인 강자성에 적응한 변종 슬라임입니다. 덕분에 철질슬라임은 부유하며 돌아다닐 수 있지만, 기본 축에서 직선으로만 움직일 수 있습니다.
+    다른 슬라임은 죽으면 분열할 뿐이지만, 철질슬라임은 외부의 철질슬라임과 동화해 크기와 힘을 키울 수 있습니다. 철질슬라임 안의 머리가 늘어날수록 쓰러트리기는 더 어려워집니다.
+    철질슬라임은 처치 시 더 작은 형태로 나뉩니다. 그리고 가장 작은 크기에선 §l철질 슬라임볼§r을 떨어트립니다.

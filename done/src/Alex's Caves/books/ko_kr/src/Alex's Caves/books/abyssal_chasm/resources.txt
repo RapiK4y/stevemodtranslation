@@ -1,13 +1,13 @@
 
 
-    Mussels can often be found growing on any solid surface in the Abyssal Chasm. Over time, they can increase in number and spread to nearby blocks. Mussels grow faster on logs than any other block.
-    Mussels can be cooked into a decent food option, too.
+    담치는 심연의 틈새의 단단한 표면 어디서나 자랍니다. 시간이 지나면 담치는 늘어나며 주변 블럭으로 퍼져나갑니다. 담치는 다른 어떤 블럭보다 원목에서 빠르게 자라납니다.
+    담치를 요리하면 꽤 괜찮은 음식이 되기도 합니다.
 
 
 
 
 
-    When broken, there is a chance for a mussel to drop one of its precious Pearls, which can be made into an Abyssal Altar, presumably to offer something to the strange beings that call the Abyssal Chasm home.
+    담치를 파괴하면 심연의 제단을 만들 때 쓰이는 소중한 진주를 떨어뜨리기도 합니다. 심연의 제단은 아마 심연의 틈새에 사는 미지의 존재들에게 무언가 바치기 위한 물건일 겁니다.
 
 
 
@@ -15,4 +15,4 @@
 
 
 
-    Occasionally, Sea Glass Shards can be obtained when breaking muck. These shards can be reassembled into normal glass, or used to create Depth Glass, which allows better visibility when placed next to water.
+    진창을 캐다 보면 가끔 바다 유리 파편을 얻을 수 있습니다. 이 파편들은 평범한 유리로 다시 조립하거나, 물 옆에서 더 잘 보이는 심해용 유리를 만들 수 있습니다.

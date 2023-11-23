@@ -13,6 +13,6 @@
     • 4.0 ♥
 
 
-    Gloomoths are large, passive insects found fluttering through the darkness of the Forlorn Hollows. These bugs are prey to many of the large mammals here, and like their predators they have also been twisted by the darkness - though nowhere near as much.
-    Gloomoths naturally seek out light sources, as it is part of how they navigate. This leads them to cluster around light-emitting blocks such as torches. Naturally, this brings them both close to the ground and brings in plenty of nearby predators that would usually stay lurking in the dark.
-    Although they are no threat in themselves, Gloomoths represent far greater danger because of the predators they can bring. If slain, they can drop §lMoth §lDust§r.
+    글룸모스는 버림받은 공동의 어둠 너머로 날아다니는 온순한 대형 곤충입니다. 글룸모스는 여기 사는 거대한 포유류들의 먹이입니다. 이들을 잡아먹는 포식자들이 그렇듯이 글룸모스도 어둠에 의해 뒤틀려 있지만, 그렇게까지 심하진 않습니다.
+    글룸모스는 자연스럽게 광원을 찾아나섭니다. 이것은 글룸모스가 길을 찾는 방법 중 하나입니다. 이들은 횃불과 같은 빛을 내는 블럭 주변에 무리를 짓습니다. 광원 주변에 모인 글룸모스들은 땅에 가까워지고 어둠 속에서 잠복해 있는 주변의 포식자들을 잔뜩 끌어들입니다.
+    글룸모스 자체는 위협적이지 않지만 글룸모스는 이들이 데려오는 포식자 때문에 훨씬 더 위험합니다. 글룸모스를 죽이면 §l나방 §l인분§r을 얻습니다.
