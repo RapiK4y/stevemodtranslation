@@ -13,7 +13,7 @@
     • 16.0 ♥
     • 3.0 🗡
 
-    Vespers are gigantic bats twisted by the darkness of the Forlorn Hollows. They can either be found in pursuit of Gloomoths, their favorite prey, or roosting, hanging the ceiling.
-    These hostile bats will attack any adventurer that wanders beneath them while roosting, and will continuously swoop in and out of the darkness to deal a nasty bite. If blocked with a shield, they will be temporarily grounded, making them easier to defeat.
-    If slain, they can drop a §lVesper §lWing§r and some Guano.
-    Vespers can also be grabbed by the resident Underzealots to be used in their rituals, to create a very powerful monster...
+    베스퍼는 버림받은 공동의 어둠으로 인해 뒤틀린 거대한 박쥐입니다. 주로 발견되는 모습은 그것들이 가장 좋아하는 먹이인 글룸모스를 쫓고 있거나, 보금자리인 천장에 매달려있는 모습입니다.
+    이 포악한 박쥐들은 둥지를 틀고 있는 동안 자신의 아래에서 방황하는 모험가를 공격하고, 계속해서 어둠 속에서 갑자기 튀어나와 고약한 입질을 할 것입니다. 그 공격을 방패로 막으면, 그들은 잠시동안 땅에 착지하며, 이때 이들을 잡기 쉬워집니다.
+    처치하면, 그들을 §l베스퍼 §l날개§r 와 약간의 구아노를 드랍합니다.
+    또한 베스퍼들은 지저광신도들에게 붙잡혀 매우 강력한 괴물을 만들어내는 의식에 사용되기도 합니다...
