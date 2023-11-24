@@ -1,1 +1,18 @@
-{}
+{
+    "block.powah.blazing_crystal_block": "불타오르는 수정 블록",
+    "block.powah.deepslate_uraninite_ore": "심층암 우라니나이트 광석",
+    "block.powah.deepslate_uraninite_ore_dense": "심층암 우라니나이트 광석 (밀집)",
+    "block.powah.deepslate_uraninite_ore_poor": "심층암 우라니나이트 광석 (빈곤)",
+    "block.powah.uraninite_block": "우라니나이트 블록",
+    "block.powah.uraninite_ore": "우라니나이트 광석",
+    "block.powah.uraninite_ore_dense": "우라니나이트 광석 (밀집)",
+    "block.powah.uraninite_ore_poor": "우라니나이트 광석 (빈곤)",
+    "item.powah.blazing_crystal": "불타오르는 수정",
+    "item.powah.crystal_blazing": "불타오르는 수정",
+    "item.powah.uraninite": "우라니나이트",
+    "item.powah.uraninite_raw": "우라니나이트 원석",
+    "tag.item.c.raw_uraninite_ores": "우라니나이트 원석 광석",
+    "tag.item.c.uraninite_blocks": "우라니나이트 블록",
+    "tag.item.c.uraninite_ores": "우라니나이트 원석",
+    "wiki.powah.uraninite": "우라니나이트 원석"
+}
