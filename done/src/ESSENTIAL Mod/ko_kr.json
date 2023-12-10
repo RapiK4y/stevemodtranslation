@@ -1,3 +1,25 @@
 {
-  "_comment.0": "# Essential Translations"
+  "_comment.0": "# Essential Translations",
+  "_comment.1": "## Menus",
+  "_comment.2": "# Friends Menu",
+  "_comment.5": "# Cosmetic Studio Menu",
+  "studio.TEAMSEAS": "#TeamSeas",
+  "_comment.45": "## Configuration",
+  "_comment.46": "# Configuration Names",
+  "_comment.51": "# Configuration Descriptions",
+  "_comment.56": "# Configuration Categories",
+  "_comment.59": "# Configuration Subcategories",
+  "_comment.63": "## Feedback",
+  "_comment.64": "# Command Feedback",
+  "_comment.67": "# Keybind Feedback",
+  "_comment.78": "## Keybinds",
+  "_comment.88": "# Emote Keybinds",
+  "_comment.101": "## Notifications",
+  "_comment.102": "# Notification Titles",
+  "_comment.109": "# Notification Messages - Friends",
+  "_comment.123": "# Notification Messages - Messaging",
+  "_comment.128": "# Cosmetics",
+  "_comment.252": "## World Settings",
+  "_comment.253": "# Game Rules",
+  "_comment.344": "# Category names"
 }
