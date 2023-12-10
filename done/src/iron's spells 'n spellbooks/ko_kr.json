@@ -379,6 +379,7 @@
   "spell.irons_spellbooks.earthquake": "지진",
   "spell.irons_spellbooks.summon_ender_chest": "엔더 상자 소환",
   "spell.irons_spellbooks.ray_of_frost": "서리 광선",
+  "spell.irons_spellbooks.none.guide": "아무것도 없네요!",
   "spell.irons_spellbooks.blood_slash.guide": "전방으로 전진하여 농축된 피의 검을 발사하고 생물에게 입힌 피해의 15%를 회복합니다.",
   "spell.irons_spellbooks.frost_step.guide": "얼어붙은 그림자를 남기고 바라보는 방향으로 순간이동합니다. 이 그림자는 3초가 지나거나 피격을 당하면 산산조각이 나며 전방위로 고드름을 발사합니다.",
   "spell.irons_spellbooks.abyssal_shroud.guide": "심연의 그늘에 몸을 가려, 짧은 시간 동안 모든 공격으로부터 회피할 수 있습니다.",
