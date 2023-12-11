@@ -38,7 +38,12 @@
   "_comment.123": "# Notification Messages - Messaging",
   "_comment.128": "# Cosmetics",
   "cosmetics.WINGS": "날개",
+  "cosmetics.LEGO_HAT": "레고 모자",
   "_comment.252": "## World Settings",
   "_comment.253": "# Game Rules",
-  "_comment.344": "# Category names"
+  "_comment.344": "# Category names",
+  "gamerule.category.player": "플레이어",
+  "gamerule.category.mobs": "몹",
+  "gamerule.category.other": "기타",
+  "gamerule.category.pinned": "고정됨"
 }
