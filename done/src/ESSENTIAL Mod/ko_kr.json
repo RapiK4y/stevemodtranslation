@@ -20,6 +20,7 @@
   "keybind.name.ZOOM": "확대/축소",
   "keybind.name.COSMETICS_VISIBILITY_TOGGLE": "나의 옷장 보기",
   "Cosmetic Visibility Toggle": "나의 옷장 보기",
+  "keybind.name.CHAT_PEEK": "채팅 기록 보기",
   "keybind.name.INVITE_FRIENDS": "친구 초대",
   "_comment.88": "# Emote Keybinds",
   "keybind.name.EMOTE_WHEEL": "감정 표현 메뉴 열기",
@@ -44,6 +45,7 @@
   "_comment.344": "# Category names",
   "gamerule.category.player": "플레이어",
   "gamerule.category.mobs": "몹",
+  "gamerule.category.chat": "채팅",
   "gamerule.category.other": "기타",
   "gamerule.category.pinned": "고정됨"
 }
