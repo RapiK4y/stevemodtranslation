@@ -457,6 +457,8 @@
   "death.attack.blood_cauldron": "%1$s 이(가) 산채로 조리됐습니다",
   "death.attack.bleed_effect": "%1$s이(가) 피를 흘리며 죽었습니다",
   "death.attack.blood_cauldron.player": "%1$s이(가) %2$s에 의해 희생되었습니다",
+  "death.attack.heartstop": "%1$s의 심장이 터졌습니다.",
+  "death.attack.heartstop.player": "%1$s의 심장이 %2$s 때문에 파열되었습니다.",
   "effect.irons_spellbooks.oakskin": "나무껍질",
   "commands.irons_spellbooks.create_scroll.failed": "두루마리 제작에 실패했습니다.",
   "entity.irons_spellbooks.cryomancer": "빙결술사",
