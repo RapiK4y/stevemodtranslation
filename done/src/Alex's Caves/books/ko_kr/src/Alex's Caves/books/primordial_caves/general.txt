@@ -1,6 +1,6 @@
 
 
-    §l원시 §l동굴§r은 셀 수 없는, 수천, 어쩌면 수천만 년 동안 다른 세상과 고립되어 왔습니다. This isolation has led to the limestone-laden caves to have unique geology, flora and fauna, that have gone extinct elsewhere in the world ages ago.
+    §l원시 §l동굴§r은 셀 수 없는, 수천, 어쩌면 수천만 년 동안 다른 세상과 고립되어 왔습니다. 이러한 고립으로 인해 석회암으로 가득한 이 동굴은 오래전 세상의 다른 곳에선 멸종된 독특한 지질학적 특징과 동식물군을 가지게 되었습니다.
     The subterranean biome is kept well-lit by Ambersol, a novel form of amber that illuminates all blocks beneath it. It appears within amber clusters on the ceiling of these massive caves.
 
 
