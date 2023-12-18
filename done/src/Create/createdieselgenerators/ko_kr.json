@@ -2,6 +2,8 @@
   "block.createdieselgenerators.oil_barrel": "기름통",
   "item.createdieselgenerators.chemical_sprayer": "화학 약품 분사기",
   "item.createdieselgenerators.chemical_sprayer_lighter": "화학 약품 분사기",
+  "item.createdieselgenerators.engine_piston": "엔진 피스톤",
+  "item.createdieselgenerators.engine_silencer": "엔진 소음기",
   "item.createdieselgenerators.plant_oil_bucket": "식물성 기름 양동이",
   "item.createdieselgenerators.distillation_controller": "증류 제어기",
   "fluid.createdieselgenerators.plant_oil": "식물성 기름",
