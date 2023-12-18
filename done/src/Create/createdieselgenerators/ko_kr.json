@@ -1,6 +1,7 @@
 {
+  "itemGroup.cdg_creative_tab": "Create: Diesel Generators",
   "block.createdieselgenerators.oil_barrel": "기름통",
-  "item.createdieselgenerators.lighter": "점화기",
+  "item.createdieselgenerators.lighter": "라이터",
   "item.createdieselgenerators.chemical_sprayer": "화학 약품 분사기",
   "item.createdieselgenerators.chemical_sprayer_lighter": "화학 약품 분사기",
   "item.createdieselgenerators.engine_piston": "엔진 피스톤",
