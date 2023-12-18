@@ -1,5 +1,6 @@
 {
   "block.createdieselgenerators.oil_barrel": "기름통",
+  "item.createdieselgenerators.lighter": "점화기",
   "item.createdieselgenerators.chemical_sprayer": "화학 약품 분사기",
   "item.createdieselgenerators.chemical_sprayer_lighter": "화학 약품 분사기",
   "item.createdieselgenerators.engine_piston": "엔진 피스톤",
@@ -26,5 +27,6 @@
   "block.createdieselgenerators.crude_oil": "원유",
   "block.createdieselgenerators.gasoline": "휘발유",
   "block.createdieselgenerators.plant_oil": "식물성 기름",
-  "block.createdieselgenerators.ethanol": "에탄올"
+  "block.createdieselgenerators.ethanol": "에탄올",
+  "createdieselgenerators.tooltip.empty": "비어있음"
 }
