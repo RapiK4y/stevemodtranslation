@@ -37,14 +37,14 @@
 
 
 
-    The Pure Darkness dropped by Forsaken can be fashioned into some Shadow Silk, a new crafting ingredient.
+    포세이큰이 떨어트리는 순수한 어둠은 새로운 제작 재료인 그림자 명주실을 만들 수 있습니다.
 
 
 
 
 
 
-    This silk can be used to create the §lDreadbow§r. Dreadbows load arrows slower than normal bows, but when fired, a volley of multitudes of arrows will fall from above the target. If normal arrows are loaded, these will be transformed into shadowy arrows that deal multiple attacks and appear in a far greater number.
+    이 명주실은 §l공포의 활§r을 만드는 데 사용할 수 있습니다. Dreadbows load arrows slower than normal bows, but when fired, a volley of multitudes of arrows will fall from above the target. If normal arrows are loaded, these will be transformed into shadowy arrows that deal multiple attacks and appear in a far greater number.
     Shadow Silk can also be used to create the §lHood §lof §lDarkness§r and §lCloak §lof §lDarkness§r.
 
 
