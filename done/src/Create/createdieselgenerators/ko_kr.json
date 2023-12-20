@@ -95,6 +95,7 @@
   "createdieselgenerators.tooltip.empty": "비어있음",
   "createdieselgenerators.generic.unit.mbps": "mB/s",
   "createdieselgenerators.gui.assembly.exception.head_missing": "원유시추기 머리가 없습니다!",
+  "createdieselgenerators.gui.assembly.exception.too_many_heads": "원유시추기 머리가 너무 많이 연결되었습니다!",
   "createdieselgenerators.actionbar.oil_scanner.searching": "§l원유를 찾는 중입니다 ...",
   "createdieselgenerators.actionbar.oil_scanner.oil_none": "§l원유를 발견하지 못 했습니다 ...",
   "createdieselgenerators.actionbar.oil_scanner.oil_low": "§l약간의 원유를 발견했습니다!",
