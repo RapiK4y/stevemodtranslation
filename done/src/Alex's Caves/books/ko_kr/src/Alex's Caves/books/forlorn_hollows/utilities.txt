@@ -1,6 +1,6 @@
 
 
-    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 여기에 맞은 생물은 나방과 같은 냄새를 풍기게 되어, 주변에 있는 버림받은 공동의 몬스터 대부분에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되는데, 설치하면 글룸모스가 광원에서 떨어져 있게 할 수 있습니다.
+    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 이것에 맞은 생물은 나방과 같은 냄새를 풍기게 되며, 주변의 있는 대부분의 버림받은 공동의 몬스터들에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되는데, 설치하면 글룸모스가 광원에서 떨어져 있게 할 수 있습니다.
 
 
 
@@ -37,14 +37,14 @@
 
 
 
-    The Pure Darkness dropped by Forsaken can be fashioned into some Shadow Silk, a new crafting ingredient.
+    포세이큰이 떨어트리는 순수한 어둠은 새로운 제작 재료인 그림자 명주실을 만들 수 있습니다.
 
 
 
 
 
 
-    This silk can be used to create the §lDreadbow§r. Dreadbows load arrows slower than normal bows, but when fired, a volley of multitudes of arrows will fall from above the target. If normal arrows are loaded, these will be transformed into shadowy arrows that deal multiple attacks and appear in a far greater number.
+    이 명주실은 §l공포의 §l활§r을 만드는 데 사용할 수 있습니다. Dreadbows load arrows slower than normal bows, but when fired, a volley of multitudes of arrows will fall from above the target. If normal arrows are loaded, these will be transformed into shadowy arrows that deal multiple attacks and appear in a far greater number.
     Shadow Silk can also be used to create the §lHood §lof §lDarkness§r and §lCloak §lof §lDarkness§r.
 
 
