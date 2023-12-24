@@ -59,4 +59,4 @@
 
 
     이 갑옷 두 부위를 함께 착용하면 현재 어둠의 힘을 보여주는 미터가 나타나며, 빛이 없는 구역에 머무르면 증가합니다. 이 미터가 가득 차면 착용자는 그림자 상태에 돌입할 수 있으며, 10초 동안 극히 빨리 비행할 수 있습니다. 하지만 이 능력은 어둠 속에 있을때만 작동합니다.
-    To increase the length of this effect unnaturally, a §lDarkened §lApple§r can be eaten while in shadow mode.
+    이 효과의 지속 시간을 부자연스럽게 늘리기 위해서 그림자 상태 동안 §l어둠의 §l사과§r를 먹을 수 있습니다.
