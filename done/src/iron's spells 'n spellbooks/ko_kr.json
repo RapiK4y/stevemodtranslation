@@ -217,7 +217,7 @@
   "ui.irons_spellbooks.no_spell_book": "주문서가 없습니다",
   "ui.irons_spellbooks.no_selection": "주문을 선택하세요",
   "ui.irons_spellbooks.ink_rarity_error": "더 높은 등급의 잉크가 필요합니다",
-  "ui.irons_spellbooks.unlearned_error": "이 주문을 사용하려면 먼저 배워야합니다.",
+  "ui.irons_spellbooks.unlearned_error": "이 주문을 사용하려면 먼저 배워야합니다",
   "ui.irons_spellbooks.empty_slot": "빈 슬롯",
   "ui.irons_spellbooks.level": "레벨 %d",
   "ui.irons_spellbooks.mana_cost": "%d 마나",
