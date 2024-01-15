@@ -235,7 +235,7 @@
   "ui.irons_spellbooks.max_hp_on_kill": "처치 시 %d 만큼 최대 생명력 증가",
   "ui.irons_spellbooks.slowness_effect": "감속 %d",
   "ui.irons_spellbooks.additional_poisoned_damage": "%d%% 추가 독 피해",
-  "ui.irons_spellbooks.strength": "%d 밀어내기",
+  "ui.irons_spellbooks.strength": "%d 힘",
   "ui.irons_spellbooks.max_victims": "%d 최대 연쇄 횟수",
   "ui.irons_spellbooks.distance": "%d 블록 거리",
   "ui.irons_spellbooks.freeze_time": "%s 빙결 시간",
