@@ -440,7 +440,7 @@
   "spell.irons_spellbooks.magic_arrow.guide": "집중하여 아케인 에너지로 이루어진 화살을 충전합니다. 이 화살은 중력의 영향을 받지 않으며 블록을 통과합니다.",
   "spell.irons_spellbooks.lob_creeper.guide": "전방으로 크리퍼의 머리를 던집니다. 크리퍼의 머리는 착탄 시 폭발하며 주문의 레벨이 높을 수록 속도가 빨라집니다.",
   "spell.irons_spellbooks.creeper_revenge.guide": "크리퍼가 또 한번 내 물건을 훔치려는 것 같군.....",
-  "spell.irons_spellbooks.chain_creeper.guide": "목표로 한 생명체나 블록 주변에 크리퍼의 머리로 이루어진 고리를 만듭니다. 크리퍼의 머리는 땅에 떨어지면서 폭발합니다. 이 폭발에 죽은 생명은 또 다른 고리를 생성합니다. 이는 여러번 반복 할 수 있습니다.",
+  "spell.irons_spellbooks.chain_creeper.guide": "목표로 한 생명체나 블록 주변에 크리퍼의 머리로 이루어진 고리를 만듭니다. 크리퍼의 머리는 땅에 떨어지면서 폭발합니다. 이 폭발에 죽은 생명은 또 다른 조금 작은 고리를 생성합니다. 이는 여러번 반복 할 수 있습니다.",
   "spell.irons_spellbooks.frost_step.guide": "얼어붙은 그림자를 남기고 바라보는 방향으로 순간이동합니다. 이 그림자는 3초가 지나거나 피격을 당하면 산산조각이 나며 전방위로 고드름을 발사합니다.",
   "spell.irons_spellbooks.abyssal_shroud.guide": "심연의 그늘에 몸을 가려, 짧은 시간 동안 모든 공격으로부터 회피할 수 있습니다.",
   "spell.irons_spellbooks.blaze_storm.guide": "집중하는 동안 블레이즈의 화염을 쏘아 적중한 생명체와 블록을 불태웁니다.",
