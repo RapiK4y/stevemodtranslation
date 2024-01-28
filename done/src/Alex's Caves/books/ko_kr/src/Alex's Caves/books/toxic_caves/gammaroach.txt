@@ -13,7 +13,7 @@
     • 14.0 ♥
     • 2.0 🗡
 
-    The Gammaroach is a gigantic, radioactive cockroach found scuttling around the Toxic Caves. Although these arthropods are initially neutral, they will attack anything that is Irradiated within their sights.
-    When injured, the Gammaroach can release a cloud of radioactive gas as a defense. Although they are not strong fighters, Gammaroaches can flee battle to find a stronger monster. Once they find a monster, they can pick it up and drop it off at their initial target.
-    This makes them a constant threat whenever the Irradiated Effect is active.
-    If slain, Gammaroaches can drop some of their innards in the form of §lToxic §lPaste§r...
+    감마로치는 유독성 동굴을 돌아다니는 거대한 방사능 바퀴벌레입니다. 이 절지동물은 처음에는 중립적이지만, 피폭된 대상이 보이면 닥치는 대로 공격합니다.
+    이들은 부상을 입으면 방어 수단으로 방사능 가스 구름을 내뿜습니다. 비록 감마로치 그 자체로는 강하지 않지만, 이들은 강한 몬스터를 찾으러 전투에서 도망칠 수도 있습니다. 몬스터를 발견한 감마로치는 이들을 집어서 처음 목표에게 데려 놓습니다.
+    때문에 피폭된 상태에서 감마로치는 지속적인 위협이 됩니다.
+    감마로치를 죽이면 내장의 일부를 §l유독성 §l페이스트§r 형태로 떨어뜨릴 수 있습니다...
