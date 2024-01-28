@@ -1,60 +1,54 @@
 
 
-    이따금씩 호박을 깨트릴 때, 진기한 호박을 발견할 수 있습니다. 이것들은 원시 동굴 곳곳에서도 볼 수 있는 §l호박 §l비석§r을 만드는 데 사용할 수 있습니다. Amber Monoliths can repopulate the nearby area of animals over the course of a few days. The type of animal spawned depends on any nearby animals and the natural rate of occurance of that animal. It is possible that the Amber Monoliths are the reason the Primordial Caves have stayed the same for eons.
+    이따금씩 호박을 깨트릴 때, 진기한 호박을 발견할 수 있습니다. 이것들은 원시 동굴 곳곳에서도 볼 수 있는 §l호박 §l비석§r을 만드는 데 사용할 수 있습니다. 호박 비석은 며칠에 걸쳐 주위 지역의 동물을 재생성합니다. 생성되는 동물의 종류는 주변에 있는 동물들과 해당 동물의 자연 발생률에 따라 달라집니다. 원시 동굴이 오랜 세월 동안 변함없이 유지된 이유는 이 호박 기둥 때문일지도 모르겠습니다.
 
 
 
 
 
-    The numerous food items of the Primordial Caves can be cooked or made straight into different dishes.
-
-
-
-
-
-
-
-
-
-
-    The §lSerene §lSalad§r can remove the Stunned effect when consumed. It can also be used to tame some dinosaurs.
+    원시 동굴의 수많은 음식 아이템들은 조리하거나 바로 다양한 요리로 만들어 먹을 수 있습니다.
 
 
 
 
 
 
-    The §lSeething §lStew§r inflicts the Rage effect, which boosts damage dependent on how little health is left. If given to other creatures, it can cause them to attack other nearby entities.
+
+
+
+
+    §l평온의 §l샐러드§r는 섭취 시 기절 효과를 없애줍니다. 몇몇 공룡들을 길들이는 데에도 사용할 수 있습니다.
 
 
 
 
 
 
-    The §lPrimordial §lSoup§r is an invigorating stew that inflicts haste. If given to a Relicheirus, it can start to knock over nearby trees for a short period.
+    §l펄펄 §l끓는 §l스튜§r는 남은 체력이 적을수록 공격력이 증가시키는 분노 효과를 발동합니다. 다른 생물에게 먹여서 주변의 다른 개체를 공격하도록 만들 수 있습니다.
 
 
 
 
 
 
-    The Cooked Dinosaur Chop can also be directly crafted into twelve §lDinosaur §lNuggets§r.
-    With the Heavy Bone dropped by many larger dinosaurs, the §lPrimitive §lClub§r can be crafted.
+    §l원시 §l수프§r는 성급함 효과를 발동시켜주는 원기 회복 스튜입니다. 렐리케이루스에게 먹이면 잠시 동안 주변의 나무들을 쓰러뜨리기 시작합니다.
 
 
 
 
 
 
-    This weapon is slow and cumbersome to use, but when slammed against a creature, there is a chance to inflict the Stunned effect for up to 15 seconds. When Stunned, creatures cannot move or melee attack.
-
-    The Heavy Bone can also be used with Tough Hide to craft the §lPrimordial §lHelmet§r, §lPrimordial §lTunic§r, and §lPrimordial §lPants§r.
-
+    익힌 공룡 고깃덩이를 바로 §l공룡 §l너겟§r 12개로 만들어 버릴 수도 있습니다.
+    많은 대형 공룡들이 떨어뜨리는 무거운 뼈로는 §l원시적인 §l몽둥이§r를 만들 수 있습니다.
 
 
 
 
 
+
+    이 무기는 느리고 사용하기 번거롭지만, 내려친 생물에게 일정 확률로 최대 15초의 기절 효과를 부여합니다. 기절한 생물은 움직이거나 근접 공격을 할 수 없게 됩니다.
+
+    무거운 뼈와 질긴 가죽을 사용하여 §l원시 §l투구§r, §l원시 §l조끼§r, §l원시 §l바지§r를 만들 수도 있습니다.
 
 
 
@@ -66,4 +60,10 @@
 
 
 
-    When equipped, his armor set increases the health and saturation provided by consuming raw meat for each piece.
+
+
+
+
+
+
+    착용한 원시 갑옷의 개수에 따라 익히지 않은 음식을 섭취함으로써 얻게 되는 체력과 포만감이 증가합니다.
