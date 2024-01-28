@@ -13,5 +13,5 @@
     • 8.0 ♥
 
 
-    Radgill are hideously mutated fish found swimming through pits of Acid in the Toxic Caves. These three-eyed fish can occasionally be seen leaping from the Acid into the air.
-    Radgill can be captured in a Bucket of Acid, and can also survive in water. If a Radgill is slain, it can drop itself as an item, which can be cooked.
+    라드길은 유독성 동굴의 산 웅덩이 속을 헤엄치는 끔찍한 돌연변이 물고기입니다. 이 눈 셋 달린 물고기는 가끔 산에서 공중으로 펄떡 뛰어오르기도 합니다.
+    라드길은 산 양동이로 포획할 수 있으며, 물 속에서도 살 수 있습니다. 라드길을 죽이면 아이템화되며 조리할 수 있습니다.
