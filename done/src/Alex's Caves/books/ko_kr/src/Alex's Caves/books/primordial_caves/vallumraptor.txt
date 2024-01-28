@@ -16,7 +16,7 @@
     밸럼랩터는 원시 동굴 안에서 흔히 발견되는, 무리를 지어 사냥하는 공룡입니다. 항상 배회하는 이 짐승들은 이 지역의 금개구리 부터 그로토케라톱스, 심지어 탐험가에 이르기 까지 크고 작은 먹잇감을 잡아먹으려고 듭니다.
     무리가 함께 공격할 때, 이 무시무시한 파충류는 먹잇감을 향해 먼거리를 도약하는 반면, 함께 공격하는 다른 무리들은 난도질하고 물어뜯으며 큰 피해를 입힙니다.
     모든 밸럼랩터 무리는 보통 주황색 무늬와 큰 키로 구분되는 장로가 이끌고 있습니다. 장로는 더 강하고 방어력도 좋은 편입니다. 밸럼랩터 무리가 전투에서 장로를 잃을 경우 보통 뿔뿔히 흩어집니다. 이들은 울음소리를 통해 무리와 소통합니다.
-    Vallumraptors can also open doors and chests using their crafty hands. They will steal any meat items from chests they can find. If a Dinosaur Nugget is taken from a chest by a Vallumraptor, it may enter a relaxed state after consuming it.
-    During this relaxed state, the Vallumraptor can be approached and fed a Serene Salad in order to tame it. Tamed Vallumraptors can be made to follow, stay or wander, and are indispensable in combat due to their sneaky abilities.
-    If a tamed Vallumraptor loses a lot of its health in battle, it will enter a stealth mode and rapidly begin to heal, only to re-enter combat once safely recovered.
-    Tamed Vallumraptors can be bred with a Dinosaur Nugget, and will lay a clutch of eggs afterwards. Baby Vallumraptors that hatch nearby will imprint on their parent's owners.
+    밸럼랩터는 그들의 교활한 손으로 문과 상자를 열 수도 있습니다. 그리고 상자에서 찾을 수 있는 고기 아이템을 아무거나 훔쳐갑니다. 만약 밸럼랩터가 상자에서 공룡 너겟을 가져갔다면, 너겟을 먹고 편안한 상태로 빠져들 수도 있습니다.
+    편안안 상태의 밸럼랩터에게 접근하여 평온의 샐러드를 먹이면 길들일 수 있습니다. 길들여진 밸럼랩터에게 따라오거나, 제자리에 머물거나, 돌아다니라고 명령할 수 있습니다. 이들의 교활한 능력은 밸럼랩터를 전투에서 없어서는 안 될 존재로 만들어 줍니다.
+    길들여진 밸럼랩터가 전투 중 체력을 많이 잃으면 은신 모드로 전환하여 빠르게 치유를 시작하고, 안전하게 회복되면 다시 전투에 참여합니다.
+    길들여진 밸럼랩터는 공룡 너겟으로 번식시킬 수 있으며, 뒤이어 알을 낳습니다. 근처에서 부화한 새끼 밸럼랩터는 부모의 주인을 각인합니다.
