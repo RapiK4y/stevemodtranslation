@@ -15,7 +15,7 @@
 
     밸럼랩터는 원시 동굴 안에서 흔히 발견되는, 무리를 지어 사냥하는 공룡입니다. 항상 배회하는 이 짐승들은 이 지역의 금개구리 부터 그로토케라톱스, 심지어 탐험가에 이르기 까지 크고 작은 먹잇감을 잡아먹으려고 듭니다.
     무리가 함께 공격할 때, 이 무시무시한 파충류는 먹잇감을 향해 먼거리를 도약하는 반면, 함께 공격하는 다른 무리들은 난도질하고 물어뜯으며 큰 피해를 입힙니다.
-    All Vallumraptor packs are usually led by an Elder, denoted by their orange markings and larger stature. Elders are stronger and have decent armor protection as well. If a Vallumraptor pack loses its Elder in combat, they usually will disperse from battle. Vallumraptors communicate with their pack through their calls.
+    모든 밸럼랩터 무리는 보통 주황색 무늬와 큰 키로 구분되는 장로가 이끌고 있습니다. 장로는 더 강하고 방어력도 좋은 편입니다. 밸럼랩터 무리가 전투에서 장로를 잃을 경우 보통 뿔뿔히 흩어집니다. 이들은 울음소리를 통해 무리와 소통합니다.
     Vallumraptors can also open doors and chests using their crafty hands. They will steal any meat items from chests they can find. If a Dinosaur Nugget is taken from a chest by a Vallumraptor, it may enter a relaxed state after consuming it.
     During this relaxed state, the Vallumraptor can be approached and fed a Serene Salad in order to tame it. Tamed Vallumraptors can be made to follow, stay or wander, and are indispensable in combat due to their sneaky abilities.
     If a tamed Vallumraptor loses a lot of its health in battle, it will enter a stealth mode and rapidly begin to heal, only to re-enter combat once safely recovered.
