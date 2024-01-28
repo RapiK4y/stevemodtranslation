@@ -13,5 +13,5 @@
     • 24.0 ♥
     • 1.0 🗡
 
-    The Raycat is a skeletal, undead feline kept alive by its radioactive powers. Although somewhat intimidating with its green glow, this cat is passive. Raycats do not need to feed since they heal by absorbing radiation from other nearby creatures, but they still will gladly accept Radgills.
-    If fed a few of these Radgills, the Raycat can become tamed. Tamed Raycats can be made to follow, stay or wander. Although they will not defend their owner in combat, they will keep Nucleepers at a distance and occasionally absorb any Irradiated Effect of their owner. They can be bred with Radgills.
+    레이캣은 방사능의 힘으로 살아 있는 뼈만 남은 언데드 고양이입니다. 녹색 빛이 다소 위협적이지만 이 고양이는 비공격적 몹입니다. 레이캣은 주변의 다른 생물들로부터 방사능을 흡수하여 회복하기 때문에 먹이를 먹을 필요가 없지만, 그래도 라드길을 주면 기쁘게 받아 먹습니다.
+    라드길 몇 마리를 먹여서 레이캣을 길들일 수 있습니다. 길들여진 레이캣에게 따라오거나, 제자리에 머물거나, 알아서 돌아다니라고 명령할 수 있습니다. 레이캣은 전투에서 주인을 방어해 주지는 않지만, 뉴클리퍼가 가까이 다가오지 못하게 하며 가끔 주인의 피폭 효과를 흡수하기도 합니다. 라드길로 번식시킬 수 있습니다.
