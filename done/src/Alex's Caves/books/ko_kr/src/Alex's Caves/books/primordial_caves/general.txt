@@ -1,18 +1,18 @@
 
 
     §l원시 §l동굴§r은 셀 수 없는, 수천, 어쩌면 수천만 년 동안 다른 세상과 고립되어 왔습니다. 이러한 고립으로 인해 석회암으로 가득한 이 동굴은 오래전 세상의 다른 곳에선 멸종된 독특한 지질학적 특징과 동식물군을 가지게 되었습니다.
-    The subterranean biome is kept well-lit by Ambersol, a novel form of amber that illuminates all blocks beneath it. It appears within amber clusters on the ceiling of these massive caves.
+    이 지하 생물 군계는 그 아래의 모든 블록을 밝게 비추는 새로운 형태의 호박, 호박양에 의해 밝게 유지됩니다. 호박양은 이 거대한 동굴의 천장에 있는 호박 군집 속에서 찾을 수 있습니다.
 
 
 
 
 
-    This illuminating power gives the entire biome a brightness equivalent to daytime on the surface, explaining the lack of monsters and the large, prehistoric plants growing in this biome.
-    Cheifly among these are the Pewen trees that cover the landscape, along with Ancient Jungle Trees, Curly Ferns, Cycads and Flytraps. The ground is covered with moss and grass, and muddy lakes appear across the cave floor.
+    이곳에 몬스터가 나오지 않고 거대한 선사시대의 식물이 자라는 이유는 동굴 전체를 대낮처럼 밝게 비추어 주는 호박양의 힘으로 설명할 수 있습니다.
+    대표적인 선사시대의 식물로는 주위 풍경을 뒤덮고 있는 칠레소나무와 고대 정글나무, 곱슬 고사리, 소철과 파리지옥이 있습니다. 지면은 이끼와 잔디로 덮여 있고, 동굴 바닥에서는 진흙 호수를 볼 수 있습니다.
 
 
 
 
 
 
-    Just because this prehistoric paradise lacks monsters does not make it fully safe to explore, however...
+    하지만 몬스터가 없다고 해서 이 선사시대의 낙원이 탐험하기에 안전한 곳이라는 것은 아닙니다...

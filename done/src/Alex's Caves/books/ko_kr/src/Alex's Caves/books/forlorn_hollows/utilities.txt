@@ -1,6 +1,6 @@
 
 
-    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 이것에 맞은 생물은 나방과 같은 냄새를 풍기게 되며, 주변의 있는 대부분의 버림받은 공동의 몬스터들에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되는데, 설치하면 글룸모스가 광원에서 떨어져 있게 할 수 있습니다.
+    글룸모스에게 얻을 수 있는 나방 인분은 누르고 있으면 가까운 곳에 던질 수 있습니다. 이것에 맞은 생물은 나방과 같은 냄새를 풍기게 되며, 주변의 있는 대부분의 버림받은 공동의 몬스터들에게 공격당할 것입니다. 이것은 §l좀약§r의 재료로도 사용되며, 설치 시 글룸모스가 광원에서 멀어지도록 할 수 있습니다.
 
 
 
@@ -9,12 +9,12 @@
 
 
     지저 광신도로부터 얻을 수 있는 황폐의 단검은 공격 피해가 낮아서 약해 보입니다. 하지만 매 타격마다 붉은 유령 단검이 적 위에 나타날 겁니다. 이 붉은 단검은 추가로 지연된 공격을 가합니다.
-    오컬트 보석에는 여러 쓸모가 있습니다. 어떤 생물이든 타격해서 구속할 수 있는 §l빙의의 §l토템§r을 만들 때 쓸 수 있습니다.
+    오컬트 보석에는 여러 쓸모가 있습니다. 어떤 생물이든 타격하여 지정할 수 있는 §l빙의의 §l토템§r을 만들 때 쓸 수 있습니다.
 
 
 
 
-    한 번 구속된 생물은 토템을 누르고 움직이게 할 장소를 바라봄으로써 조종할 수 있습니다. 이러한 흑마법이 작동하기 위해서는 생물이 보이는 곳에 있어야 한다는 것을 알 수 있습니다. 토템의 내구도는 한정되어 있지만, 빙의된 생물이 다른 생물에 충돌하면 공격하도록 합니다.
+    한 번 지정된 생물은 움직이게 할 장소를 바라보고 토템을 눌러 조종할 수 있습니다. 이러한 흑마법이 작동하기 위해서는 생물이 보이는 곳에 있어야 한다는 것을 주의하세요. 토템의 내구도는 한정되어 있지만, 빙의된 생물이 다른 생물에 충돌하면 공격하도록 합니다.
     오컬트 젬은 §l감시자§r를 만들 때도 쓰입니다.
 
 
@@ -22,7 +22,7 @@
 
 
 
-    다른 오컬트 젬을 이 블록에 연결하고, 세계의 어디서든 사용함으로써 감시자의 눈읕 통해 볼 수 있습니다. 차원을 넘어서 사용할 수 없다는 것을 주의하십시오.
+    다른 오컬트 젬을 이 블록에 연결하고, 세계의 어디서든 사용함으로써 감시자의 눈읕 통해 볼 수 있습니다. 다른 차원간에서는 사용할 수 없다는 것을 주의하세요.
     코로던트의 이빨은 채굴 속도를 늘려주는 성급함의 물약을 양조할 때 쓰입니다. 하지만 조합하여 §l굴착 §l화살§r을 만들 수도 있습니다.
 
 
@@ -44,8 +44,8 @@
 
 
 
-    이 명주실은 §l공포의 §l활§r을 만드는 데 사용할 수 있습니다. Dreadbows load arrows slower than normal bows, but when fired, a volley of multitudes of arrows will fall from above the target. If normal arrows are loaded, these will be transformed into shadowy arrows that deal multiple attacks and appear in a far greater number.
-    Shadow Silk can also be used to create the §lHood §lof §lDarkness§r and §lCloak §lof §lDarkness§r.
+    이 명주실은 §l공포의 §l활§r을 만드는 데 사용할 수 있습니다. 공포의 활은 일반 활보다는 활 시위를 당기는 속도가 느리지만, 발사 시 수많은 화살이 일제히 목표물의 위에 떨어집니다. 일반 화살을 장전하면 다중 공격을 가하는 그림자 화살로 변하며 훨씬 더 많은 수로 나타납니다.
+    그림자 명주실은 §l어둠의 §l후드§r 및 §l어둠의 §l망토§r를 제작하는는 데에도 사용할 수 있습니다.
 
 
 
@@ -58,5 +58,5 @@
 
 
 
-    When both of these armor pieces are worn together, a meter appears showing the current darkness power, which is increased by staying within areas devoid of light. Once this meter is full, the wearer can enter shadow mode, which will grant them extremely fast flight for ten seconds - but this ability only works if they stay within the darkness.
-    To increase the length of this effect unnaturally, a §lDarkened §lApple§r can be eaten while in shadow mode.
+    이 갑옷 두 부위를 함께 착용하면 현재 어둠의 힘을 보여주는 미터가 나타나며, 빛이 없는 구역에 머무르면 증가합니다. 이 미터가 가득 차면 착용자는 그림자 상태에 돌입할 수 있으며, 10초 동안 극히 빨리 비행할 수 있습니다. 하지만 이 능력은 어둠 속에 있을때만 작동합니다.
+    이 효과의 지속 시간을 부자연스럽게 늘리기 위해서 그림자 상태 동안 §l어둠의 §l사과§r를 먹을 수 있습니다.

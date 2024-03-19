@@ -13,9 +13,9 @@
     • 40.0 ♥
     • 5.0 🗡
     • 8.0 ⛨
-    The Brainiac is a monstrous mutant made of several zombies and other unknown monsters. Brainiacs are fast, aggressive, strong, and in possession of a large tongue that can whip targets from a distance.
-    Usually, Brainiacs can be found carrying around a Waste Drum on their backs. When in combat, they can either drink this to heal quickly, or use it as a range attack to spread acid near their targets.
-    Once nearby, Brainiacs will either smash their target with their arms, or use their jaw-hand to snap at them. All Brainiac attacks have a chance to inflict the Irradiated effect.
+    브레이니악은 좀비 여럿과 다른 미지의 몬스터들로 이루어진 기괴한 돌연변이입니다. 이들은 빠르고 공격적이며 힘이 세고, 멀리서도 목표를 때릴 수 있는 큰 혀를 가지고 있습니다.
+    보통 브레이니악은 등에 폐기물 드럼을 짊어지고 다닙니다. 전투 중에는 이를 마셔 빠르게 회복하거나, 원거리 공격 무기로 사용하여 목표 주변에 산을 흩뿌릴 수가 있습니다.
+    근처에 접근하면, 브레이니악은 목표를 팔로 내려치거나 턱 달린 손으로 목표를 물어뜯습니다. 모든 브레이니악의 공격은 일정 확률로 피폭 효과를 입힙니다.
 
 
-    If slain, a Braniac can drop rotten flesh and §lSoylent §lGreen§r, a new food item that can be drank when inflicted with Irradiated to heal. They can also drop a §lCharred §lRemnant§r, a mysteriously radioactive item...
+    브레이니악을 죽이면 썩은 살점과 소일렌트 그린을 떨어뜨릴 수 있습니다. §l소일렌트 §l그린§r은 피폭 상태에서 마시면 체력을 회복할 수 있는 새로운 음식 아이템입니다. 또한 미스터리한 방사성 아이템인 §l검게 §l탄 §l잔여물§r을 떨어뜨릴 수도 있습니다...

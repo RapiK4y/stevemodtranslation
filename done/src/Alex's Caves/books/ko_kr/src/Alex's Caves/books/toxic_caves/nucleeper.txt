@@ -13,6 +13,6 @@
     • 30.0 ♥
     • 100.0 🗡
 
-    The Nucleeper is some form of highly modified creeper with mechanical and atomic enhancements. This poor creature seems to be in a state of constant anguish, just like its normal creeper ancestors.
-    Nucleepers are slow, and take much longer to charge up their explosive ability than normal creepers. This begins with the core of the creeper beginning to close, emitting a warning siren sound and bright flashing lights from its glowing green head. Once the core of the creeper has completely closed, an atomic explosion will appear and devistate the nearby area.
-    For this reason, Nucleepers must be destroyed before they close completely and create an atomic fireball. If slain before it reaches criticality, it can drop some gunpowder and occasionally a §lFissile §lCore§r...
+    뉴클리퍼는 기계적 및 원자력 성능이 향상되어 고도로 변형된 크리퍼의 일종입니다. 이 불쌍한 생명체는 그들의 조상인 평범한 크리퍼처럼 끊임없는 고뇌에 빠져 있는 것 같습니다.
+    뉴클리퍼는 느리며 일반 크리퍼보다 폭발하는 데 더 오랜 시간이 걸립니다. 폭발은 크리퍼의 코어가 닫히기 시작하면서 경고 사이렌 소리와 함께 빛나는 녹색 머리에서 밝은 불빛이 번쩍이는 것으로 시작됩니다. 크리퍼의 코어가 완전히 닫히면 원자 폭발이 일어나 주변 지역을 파괴합니다.
+    따라서 코어가 완전히 닫히고 원자 불덩이가 만들어지기 전에 먼저 뉴클리퍼를 파괴해야 합니다. 뉴클리퍼가 임계치에 도달하기 전에 처치하면 화약, 그리고 가끔 §l핵분열 §l코어§r를 떨어뜨릴 수 있습니다...

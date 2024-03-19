@@ -1,20 +1,20 @@
 
 
-    The §lToxic §lCaves§r is a massive, underground wasteland that must have been created by the excesses of scientific hubris in ages long past. All that remains of this is an extremely hostile environment, home to some equally dangerous hazards and monsters.
+    §l유독성 §l동굴§r은 먼 옛날 과학의 오만함이 빚어낸 거대한 지하의 황무지입니다. 남은 것은 극도로 적대적인 환경과 그에 못지않게 위험한 요소들, 그리고 몬스터들뿐입니다.
 
 
 
 
 
 
-    Most of the terrain of the Toxic Caves consists of Radrock, an irradiated variant of stone. This Radrock occasionally bears Uranium Ore inside it as well, which is also exclusive to this biome in such quantities.
-    Dividing the open spaces of the Toxic Caves are large pits full of Acid, a dangerous liquid that can corrode the armor of anything that enters it - before corroding the creature itself. Acid can also create Rusty versions of Scrap Metal blocks when it flows over it.
-    Geothermal Vents can be seen rising from these acidic pits, constantly bubbling and spewing out gas. The Toxic Caves also feature the occasional Sulfur Stack, which can grow in size provided there is a block of Acidic Radrock dripping onto it.
+    유독성 동굴의 지형 대부분은 방사선에 조사된 돌의 변종인 라드록으로 이루어져 있습니다. 라드록은 때때로 내부에 우라늄 광석도 함유하고 있는데, 이 역시 이 생물 군계에서만 발견되는 물질입니다.
+    유독성 동굴의 공간을 갈라놓는 거대한 웅덩이는 생물 그 자체를 녹여버리기 전에 그 갑옷부터 부식시켜 버리는 위험한 액체인 산으로 가득 차 있습니다. 산은 고철 블록을 녹슬게 만들 수도 있습니다.
+    산성 구덩이에서 솟아난 지열분출공이 끊임없이 거품과 가스를 내뿜는 것을 볼 수 있습니다. 유독성 동굴에서는 가끔 유황 더미를 발견할 수도 있는데, 이 유황 더미의 위쪽에 산성 라드록이 있으면 그곳에서 떨어지는 방울을 맞고 크기가 커지기도 합니다.
 
 
 
 
 
 
-    Within the Toxic Caves, numerous ruins of past industrial and atomic progress can be spotted. These often contain loot of some kind, but venturing near them could also expose any adventurer to radiation by picking up any radioactive items - such as a Waste Drum or Uranium Rod.
-    Irradiated is a nasty effect that stops all natural healing from occurring while active. Higher levels of this effect also inflict damage at a constant rate - making it a death sentence if not dealt with quickly.
+    유독성 동굴에서는 과거 산업 및 원자력 발전의 흔적이 곳곳에서 발견됩니다. 이곳에서 종종 전리품을 발견할 수도 있지만, 이 근처를 탐험하다가 폐기물 드럼이나 우라늄 막대 같은 방사성 아이템을 주워 방사능에 노출될 수도 있습니다.
+    피폭은 지속되는 동안 모든 자연적 회복을 중단시키는 불쾌한 효과입니다. 피폭의 단계가 높아질수록 일정한 비율의 피해를 입히기에, 빠르게 대처하지 못하면 사실상 사망선고와도 같습니다.
